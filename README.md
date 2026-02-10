@@ -73,6 +73,3 @@ The dataset is useful for analyzing traffic conditions, creating dashboards, and
 - College presentations  
 
 ---
-
-## 📌 Note
-This dataset is **synthetic data** created for **learning and project purposes only**.
