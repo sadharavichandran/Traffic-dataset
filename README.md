@@ -1,20 +1,14 @@
-# 🚦 Chennai City Traffic Dataset
+# 🚦 Chandigarh City Traffic Dataset
 
 ## 📌 Project Overview
-This project contains a traffic dataset collected for Chennai city.  
-The dataset can be used to analyze traffic conditions, build dashboards, and understand congestion patterns across different areas and time periods.
-
-This dataset is useful for:
-- Data analysis
-- Dashboard creation
-- Student mini projects
-- Traffic monitoring studies
+This project contains a traffic dataset collected for Chandigarh city.  
+The dataset is useful for analyzing traffic conditions, creating dashboards, and understanding congestion patterns across different locations and time periods.
 
 ---
 
 ## 📂 Dataset Details
-- **File Name:** chennai_city_traffic_dataset_1000_rows.csv  
-- **Number of Rows:** 1000  
+- **File Name:** chandigarh_city_traffic_dataset_5000_rows.csv  
+- **Total Records:** 5000  
 - **Number of Columns:** 10  
 - **Format:** CSV (Comma Separated Values)
 
@@ -40,14 +34,14 @@ This dataset is useful for:
 ## 🎯 Purpose of the Dataset
 - Identify high traffic zones  
 - Analyze peak traffic hours  
-- Study impact of weather and accidents  
+- Study the impact of weather and accidents  
 - Support traffic dashboards and visualizations  
-- Help students understand real-world data  
+- Help students understand real-world traffic data  
 
 ---
 
 ## 📊 Possible Use Cases
-- Traffic analysis dashboard (Power BI / Tableau)  
+- Traffic analysis dashboards (Power BI / Tableau)  
 - Python data analysis (Pandas, Matplotlib)  
 - Machine learning traffic prediction  
 - Academic assignments and presentations  
@@ -77,3 +71,8 @@ This dataset is useful for:
 - Data science beginners  
 - Dashboard projects  
 - College presentations  
+
+---
+
+## 📌 Note
+This dataset is **synthetic data** created for **learning and project purposes only**.
