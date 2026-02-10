@@ -1,0 +1,1001 @@
+Date,Location,Road_Name,Vehicle_Count,Average_Speed_kmph,Congestion_Level,Peak_Hour,Accidents_Reported,Weather,Signal_Status
+2025-01-01 00:00:00,OMR,Mount Road,192,13,High,No,1,Clear,Smooth
+2025-01-01 01:00:00,Guindy,Mount Road,1043,23,High,No,4,Rainy,Moderate Delay
+2025-01-01 02:00:00,Adyar,Mount Road,155,50,Medium,No,4,Clear,Smooth
+2025-01-01 03:00:00,OMR,ECR,936,50,Medium,No,4,Cloudy,Moderate Delay
+2025-01-01 04:00:00,Velachery,Inner Ring Road,477,34,Medium,No,1,Clear,Moderate Delay
+2025-01-01 05:00:00,Porur,ECR,1378,67,Low,No,4,Cloudy,Smooth
+2025-01-01 06:00:00,Adyar,Inner Ring Road,1945,64,Medium,No,2,Rainy,Moderate Delay
+2025-01-01 07:00:00,Adyar,ECR,366,59,High,Yes,1,Rainy,Smooth
+2025-01-01 08:00:00,OMR,ECR,684,19,High,No,2,Clear,Smooth
+2025-01-01 09:00:00,Anna Nagar,OMR Road,1975,30,Low,No,1,Clear,Smooth
+2025-01-01 10:00:00,Velachery,ECR,58,45,Medium,No,4,Clear,Heavy Delay
+2025-01-01 11:00:00,OMR,GST Road,823,21,High,Yes,2,Clear,Smooth
+2025-01-01 12:00:00,Velachery,OMR Road,1146,36,Low,No,2,Clear,Heavy Delay
+2025-01-01 13:00:00,Velachery,ECR,1432,49,Medium,No,2,Clear,Moderate Delay
+2025-01-01 14:00:00,Porur,Mount Road,272,11,High,Yes,1,Clear,Smooth
+2025-01-01 15:00:00,Adyar,GST Road,1489,63,Medium,No,3,Rainy,Moderate Delay
+2025-01-01 16:00:00,Guindy,GST Road,602,22,Low,No,4,Rainy,Moderate Delay
+2025-01-01 17:00:00,Porur,GST Road,1443,62,Medium,No,2,Clear,Moderate Delay
+2025-01-01 18:00:00,Porur,OMR Road,765,41,High,No,3,Cloudy,Smooth
+2025-01-01 19:00:00,Velachery,ECR,1337,40,Medium,No,4,Clear,Smooth
+2025-01-01 20:00:00,Tambaram,ECR,1913,25,Low,No,4,Clear,Smooth
+2025-01-01 21:00:00,Adyar,Mount Road,1763,41,Medium,No,2,Clear,Smooth
+2025-01-01 22:00:00,Anna Nagar,Mount Road,1933,41,Medium,Yes,2,Rainy,Smooth
+2025-01-01 23:00:00,Porur,GST Road,1391,69,Medium,Yes,1,Clear,Smooth
+2025-01-02 00:00:00,Guindy,Mount Road,1157,43,High,No,3,Clear,Smooth
+2025-01-02 01:00:00,Tambaram,OMR Road,1391,20,Low,Yes,3,Rainy,Smooth
+2025-01-02 02:00:00,Tambaram,ECR,160,19,High,No,2,Clear,Smooth
+2025-01-02 03:00:00,Anna Nagar,GST Road,300,24,Low,No,4,Rainy,Smooth
+2025-01-02 04:00:00,Porur,Mount Road,432,26,Medium,No,2,Cloudy,Heavy Delay
+2025-01-02 05:00:00,Guindy,OMR Road,56,49,Low,No,4,Cloudy,Smooth
+2025-01-02 06:00:00,Adyar,OMR Road,508,27,Medium,No,4,Clear,Moderate Delay
+2025-01-02 07:00:00,T. Nagar,Mount Road,1157,64,Medium,No,2,Clear,Smooth
+2025-01-02 08:00:00,Guindy,ECR,257,18,Medium,No,0,Clear,Heavy Delay
+2025-01-02 09:00:00,Anna Nagar,Mount Road,949,34,Low,Yes,3,Clear,Smooth
+2025-01-02 10:00:00,Tambaram,GST Road,1463,49,Medium,No,4,Clear,Heavy Delay
+2025-01-02 11:00:00,Adyar,Mount Road,1387,68,Low,No,4,Clear,Moderate Delay
+2025-01-02 12:00:00,Guindy,OMR Road,71,23,High,No,0,Cloudy,Smooth
+2025-01-02 13:00:00,T. Nagar,Mount Road,459,69,High,No,1,Cloudy,Heavy Delay
+2025-01-02 14:00:00,T. Nagar,ECR,944,67,Medium,Yes,0,Clear,Moderate Delay
+2025-01-02 15:00:00,Velachery,Inner Ring Road,564,34,Medium,No,0,Clear,Smooth
+2025-01-02 16:00:00,Velachery,Mount Road,1200,59,Medium,No,4,Clear,Heavy Delay
+2025-01-02 17:00:00,OMR,ECR,858,31,Low,No,3,Clear,Heavy Delay
+2025-01-02 18:00:00,Anna Nagar,ECR,1773,61,Medium,No,0,Rainy,Moderate Delay
+2025-01-02 19:00:00,Porur,OMR Road,923,39,High,No,1,Rainy,Smooth
+2025-01-02 20:00:00,Guindy,ECR,63,29,Medium,No,2,Cloudy,Heavy Delay
+2025-01-02 21:00:00,Guindy,ECR,1020,30,Low,No,0,Rainy,Moderate Delay
+2025-01-02 22:00:00,Porur,ECR,1027,53,High,No,0,Clear,Heavy Delay
+2025-01-02 23:00:00,OMR,ECR,1063,41,Medium,No,1,Rainy,Moderate Delay
+2025-01-03 00:00:00,Tambaram,GST Road,1085,60,High,Yes,3,Clear,Smooth
+2025-01-03 01:00:00,Tambaram,GST Road,136,55,Medium,No,0,Clear,Heavy Delay
+2025-01-03 02:00:00,OMR,OMR Road,1597,58,Medium,No,0,Clear,Smooth
+2025-01-03 03:00:00,Tambaram,Mount Road,958,65,Low,Yes,3,Clear,Smooth
+2025-01-03 04:00:00,Velachery,ECR,1610,30,Low,Yes,1,Clear,Moderate Delay
+2025-01-03 05:00:00,Guindy,Mount Road,1374,44,High,No,0,Clear,Moderate Delay
+2025-01-03 06:00:00,OMR,Mount Road,1316,67,Low,No,3,Cloudy,Smooth
+2025-01-03 07:00:00,Guindy,OMR Road,171,41,High,No,0,Clear,Heavy Delay
+2025-01-03 08:00:00,Porur,ECR,1220,39,Medium,No,2,Clear,Smooth
+2025-01-03 09:00:00,T. Nagar,ECR,1640,64,Low,Yes,4,Clear,Moderate Delay
+2025-01-03 10:00:00,Velachery,Inner Ring Road,799,48,Low,Yes,2,Rainy,Heavy Delay
+2025-01-03 11:00:00,Adyar,Mount Road,1429,58,Low,Yes,0,Clear,Smooth
+2025-01-03 12:00:00,Velachery,Mount Road,734,21,High,Yes,1,Cloudy,Smooth
+2025-01-03 13:00:00,OMR,GST Road,1977,50,Medium,Yes,4,Cloudy,Smooth
+2025-01-03 14:00:00,Adyar,Inner Ring Road,1806,56,Medium,No,2,Clear,Heavy Delay
+2025-01-03 15:00:00,T. Nagar,GST Road,1704,27,Medium,No,3,Rainy,Smooth
+2025-01-03 16:00:00,OMR,GST Road,358,30,Low,Yes,1,Clear,Smooth
+2025-01-03 17:00:00,Anna Nagar,GST Road,744,22,Medium,Yes,2,Clear,Moderate Delay
+2025-01-03 18:00:00,Guindy,OMR Road,337,30,Low,No,3,Rainy,Moderate Delay
+2025-01-03 19:00:00,T. Nagar,OMR Road,356,17,High,Yes,0,Clear,Smooth
+2025-01-03 20:00:00,Guindy,GST Road,1885,55,Medium,No,3,Clear,Moderate Delay
+2025-01-03 21:00:00,Tambaram,Inner Ring Road,1667,49,Medium,No,2,Clear,Smooth
+2025-01-03 22:00:00,Anna Nagar,Mount Road,963,55,Medium,No,2,Clear,Heavy Delay
+2025-01-03 23:00:00,Anna Nagar,Inner Ring Road,1796,16,Medium,Yes,0,Cloudy,Smooth
+2025-01-04 00:00:00,T. Nagar,ECR,711,32,High,Yes,3,Clear,Smooth
+2025-01-04 01:00:00,Anna Nagar,OMR Road,598,53,Medium,No,3,Rainy,Moderate Delay
+2025-01-04 02:00:00,Adyar,Mount Road,1425,41,Low,No,0,Clear,Smooth
+2025-01-04 03:00:00,Anna Nagar,Mount Road,361,20,Medium,No,3,Rainy,Moderate Delay
+2025-01-04 04:00:00,Guindy,ECR,922,31,Low,Yes,0,Clear,Smooth
+2025-01-04 05:00:00,Guindy,ECR,1132,31,Low,No,1,Clear,Smooth
+2025-01-04 06:00:00,OMR,GST Road,1716,52,High,No,2,Cloudy,Moderate Delay
+2025-01-04 07:00:00,Guindy,OMR Road,973,34,High,No,1,Clear,Moderate Delay
+2025-01-04 08:00:00,OMR,OMR Road,1787,31,High,Yes,4,Clear,Moderate Delay
+2025-01-04 09:00:00,Guindy,Inner Ring Road,804,37,Medium,Yes,4,Clear,Smooth
+2025-01-04 10:00:00,Adyar,GST Road,84,38,Medium,No,4,Rainy,Smooth
+2025-01-04 11:00:00,Porur,GST Road,494,22,Low,No,0,Clear,Smooth
+2025-01-04 12:00:00,OMR,GST Road,142,27,Low,No,3,Cloudy,Smooth
+2025-01-04 13:00:00,Velachery,GST Road,1280,11,High,No,1,Clear,Moderate Delay
+2025-01-04 14:00:00,Tambaram,OMR Road,402,38,Medium,No,1,Clear,Heavy Delay
+2025-01-04 15:00:00,T. Nagar,OMR Road,952,30,High,No,1,Rainy,Smooth
+2025-01-04 16:00:00,Guindy,GST Road,1405,24,High,No,1,Rainy,Smooth
+2025-01-04 17:00:00,Anna Nagar,Inner Ring Road,1890,61,Low,No,4,Cloudy,Smooth
+2025-01-04 18:00:00,Porur,Mount Road,911,36,Medium,No,1,Cloudy,Smooth
+2025-01-04 19:00:00,Guindy,Mount Road,1798,59,Medium,No,3,Clear,Smooth
+2025-01-04 20:00:00,Anna Nagar,Inner Ring Road,208,40,Low,No,4,Clear,Heavy Delay
+2025-01-04 21:00:00,Tambaram,GST Road,1006,24,High,Yes,1,Clear,Moderate Delay
+2025-01-04 22:00:00,Tambaram,OMR Road,73,60,Medium,No,0,Rainy,Heavy Delay
+2025-01-04 23:00:00,Tambaram,Mount Road,453,32,Low,Yes,2,Cloudy,Heavy Delay
+2025-01-05 00:00:00,Anna Nagar,ECR,854,33,Medium,No,2,Clear,Moderate Delay
+2025-01-05 01:00:00,Guindy,ECR,565,53,High,No,2,Clear,Moderate Delay
+2025-01-05 02:00:00,Tambaram,Inner Ring Road,781,22,Low,Yes,4,Clear,Smooth
+2025-01-05 03:00:00,Adyar,GST Road,1437,31,High,No,1,Rainy,Moderate Delay
+2025-01-05 04:00:00,OMR,Mount Road,1455,52,Low,No,4,Clear,Heavy Delay
+2025-01-05 05:00:00,Anna Nagar,GST Road,581,46,High,Yes,3,Clear,Smooth
+2025-01-05 06:00:00,Anna Nagar,Mount Road,1005,42,High,No,0,Clear,Heavy Delay
+2025-01-05 07:00:00,Guindy,Inner Ring Road,201,65,Medium,No,0,Rainy,Smooth
+2025-01-05 08:00:00,Anna Nagar,Inner Ring Road,1635,12,Medium,No,2,Rainy,Heavy Delay
+2025-01-05 09:00:00,Anna Nagar,ECR,1762,63,High,No,2,Rainy,Heavy Delay
+2025-01-05 10:00:00,Tambaram,GST Road,996,28,Medium,Yes,2,Clear,Moderate Delay
+2025-01-05 11:00:00,Guindy,ECR,657,32,High,Yes,1,Clear,Moderate Delay
+2025-01-05 12:00:00,Tambaram,GST Road,1690,38,Low,No,3,Rainy,Moderate Delay
+2025-01-05 13:00:00,OMR,ECR,469,39,High,No,3,Cloudy,Heavy Delay
+2025-01-05 14:00:00,Porur,OMR Road,1323,48,High,No,3,Clear,Heavy Delay
+2025-01-05 15:00:00,OMR,OMR Road,1190,53,High,Yes,3,Clear,Heavy Delay
+2025-01-05 16:00:00,Porur,OMR Road,915,56,Low,No,2,Clear,Moderate Delay
+2025-01-05 17:00:00,Tambaram,OMR Road,1585,34,Medium,Yes,0,Clear,Moderate Delay
+2025-01-05 18:00:00,OMR,Mount Road,1813,46,Medium,Yes,2,Rainy,Heavy Delay
+2025-01-05 19:00:00,Guindy,OMR Road,627,56,Medium,No,3,Clear,Moderate Delay
+2025-01-05 20:00:00,T. Nagar,Inner Ring Road,384,17,Medium,No,2,Clear,Heavy Delay
+2025-01-05 21:00:00,Tambaram,Inner Ring Road,1491,51,Low,No,3,Clear,Moderate Delay
+2025-01-05 22:00:00,Porur,Mount Road,981,67,High,No,4,Clear,Smooth
+2025-01-05 23:00:00,Adyar,OMR Road,1847,25,Medium,No,0,Clear,Smooth
+2025-01-06 00:00:00,Porur,OMR Road,344,17,Low,No,4,Clear,Moderate Delay
+2025-01-06 01:00:00,Adyar,OMR Road,804,10,Medium,No,1,Clear,Smooth
+2025-01-06 02:00:00,Anna Nagar,ECR,1444,53,Medium,No,2,Rainy,Smooth
+2025-01-06 03:00:00,OMR,GST Road,235,14,Low,No,1,Clear,Moderate Delay
+2025-01-06 04:00:00,Adyar,ECR,1319,12,High,No,2,Clear,Smooth
+2025-01-06 05:00:00,Porur,GST Road,686,10,High,Yes,4,Cloudy,Smooth
+2025-01-06 06:00:00,Anna Nagar,OMR Road,1341,13,Medium,No,3,Rainy,Moderate Delay
+2025-01-06 07:00:00,T. Nagar,OMR Road,1716,49,Low,Yes,3,Rainy,Heavy Delay
+2025-01-06 08:00:00,Guindy,ECR,1310,44,High,No,2,Clear,Moderate Delay
+2025-01-06 09:00:00,Guindy,ECR,579,41,Medium,No,3,Clear,Heavy Delay
+2025-01-06 10:00:00,Guindy,GST Road,1625,51,Medium,Yes,4,Clear,Moderate Delay
+2025-01-06 11:00:00,Adyar,Inner Ring Road,70,43,Medium,Yes,3,Clear,Smooth
+2025-01-06 12:00:00,T. Nagar,GST Road,960,52,Medium,No,4,Clear,Moderate Delay
+2025-01-06 13:00:00,Adyar,ECR,1810,34,Medium,No,1,Cloudy,Moderate Delay
+2025-01-06 14:00:00,OMR,ECR,916,19,Medium,Yes,4,Clear,Smooth
+2025-01-06 15:00:00,Adyar,Mount Road,843,30,Medium,No,0,Clear,Smooth
+2025-01-06 16:00:00,T. Nagar,ECR,1593,55,High,No,0,Clear,Moderate Delay
+2025-01-06 17:00:00,T. Nagar,Mount Road,149,48,Medium,No,0,Clear,Smooth
+2025-01-06 18:00:00,OMR,Inner Ring Road,801,36,High,No,2,Rainy,Moderate Delay
+2025-01-06 19:00:00,T. Nagar,GST Road,527,36,High,No,2,Clear,Smooth
+2025-01-06 20:00:00,Porur,GST Road,1672,11,Medium,Yes,2,Rainy,Moderate Delay
+2025-01-06 21:00:00,T. Nagar,Mount Road,1371,50,Medium,No,4,Cloudy,Moderate Delay
+2025-01-06 22:00:00,Guindy,GST Road,989,57,Medium,No,2,Clear,Smooth
+2025-01-06 23:00:00,Porur,ECR,575,22,Medium,Yes,1,Clear,Smooth
+2025-01-07 00:00:00,Porur,OMR Road,383,18,High,Yes,0,Cloudy,Moderate Delay
+2025-01-07 01:00:00,OMR,Mount Road,51,61,Medium,Yes,4,Rainy,Heavy Delay
+2025-01-07 02:00:00,Velachery,GST Road,424,45,High,No,0,Clear,Heavy Delay
+2025-01-07 03:00:00,Velachery,Mount Road,342,31,Low,No,2,Cloudy,Moderate Delay
+2025-01-07 04:00:00,T. Nagar,Mount Road,886,51,Low,No,4,Clear,Moderate Delay
+2025-01-07 05:00:00,Porur,OMR Road,1054,35,Medium,No,3,Cloudy,Smooth
+2025-01-07 06:00:00,Velachery,ECR,602,67,Low,No,1,Clear,Smooth
+2025-01-07 07:00:00,Velachery,Mount Road,367,63,Low,Yes,2,Clear,Smooth
+2025-01-07 08:00:00,T. Nagar,GST Road,1575,21,Medium,Yes,2,Cloudy,Moderate Delay
+2025-01-07 09:00:00,Velachery,Inner Ring Road,1901,26,Low,No,1,Clear,Smooth
+2025-01-07 10:00:00,Adyar,Mount Road,430,23,Low,Yes,1,Clear,Smooth
+2025-01-07 11:00:00,Anna Nagar,Mount Road,1696,23,High,No,3,Clear,Moderate Delay
+2025-01-07 12:00:00,OMR,OMR Road,63,66,Low,No,2,Cloudy,Moderate Delay
+2025-01-07 13:00:00,Anna Nagar,ECR,553,43,High,Yes,2,Rainy,Smooth
+2025-01-07 14:00:00,T. Nagar,Inner Ring Road,280,62,High,No,0,Rainy,Smooth
+2025-01-07 15:00:00,Guindy,GST Road,1157,66,High,No,4,Clear,Moderate Delay
+2025-01-07 16:00:00,OMR,Inner Ring Road,179,29,Low,No,4,Rainy,Moderate Delay
+2025-01-07 17:00:00,T. Nagar,GST Road,1816,20,High,Yes,0,Clear,Moderate Delay
+2025-01-07 18:00:00,Porur,ECR,887,25,Medium,No,4,Clear,Smooth
+2025-01-07 19:00:00,Guindy,GST Road,1218,60,Medium,Yes,1,Rainy,Moderate Delay
+2025-01-07 20:00:00,Anna Nagar,OMR Road,940,40,Medium,No,4,Clear,Heavy Delay
+2025-01-07 21:00:00,T. Nagar,OMR Road,1930,64,High,Yes,4,Clear,Smooth
+2025-01-07 22:00:00,Porur,OMR Road,77,15,Medium,No,0,Clear,Heavy Delay
+2025-01-07 23:00:00,OMR,OMR Road,115,65,High,No,3,Clear,Smooth
+2025-01-08 00:00:00,OMR,Inner Ring Road,1236,28,Medium,No,4,Cloudy,Smooth
+2025-01-08 01:00:00,Tambaram,ECR,1302,46,High,Yes,4,Clear,Moderate Delay
+2025-01-08 02:00:00,Porur,GST Road,310,67,High,Yes,3,Rainy,Smooth
+2025-01-08 03:00:00,Adyar,GST Road,1522,13,Low,Yes,0,Clear,Smooth
+2025-01-08 04:00:00,Velachery,OMR Road,1497,56,High,Yes,3,Clear,Moderate Delay
+2025-01-08 05:00:00,Guindy,OMR Road,509,13,Low,Yes,0,Clear,Heavy Delay
+2025-01-08 06:00:00,Porur,Mount Road,1749,29,Low,No,1,Rainy,Heavy Delay
+2025-01-08 07:00:00,Tambaram,ECR,350,19,Low,Yes,0,Rainy,Moderate Delay
+2025-01-08 08:00:00,Velachery,Inner Ring Road,968,33,Medium,Yes,1,Cloudy,Smooth
+2025-01-08 09:00:00,Velachery,GST Road,1376,63,Medium,No,1,Rainy,Moderate Delay
+2025-01-08 10:00:00,T. Nagar,Mount Road,336,44,Low,Yes,0,Clear,Moderate Delay
+2025-01-08 11:00:00,Velachery,Mount Road,1468,35,Low,Yes,2,Rainy,Heavy Delay
+2025-01-08 12:00:00,Adyar,GST Road,1083,46,High,Yes,0,Cloudy,Heavy Delay
+2025-01-08 13:00:00,OMR,Inner Ring Road,1780,47,High,No,4,Rainy,Heavy Delay
+2025-01-08 14:00:00,Tambaram,Mount Road,679,30,High,Yes,4,Clear,Moderate Delay
+2025-01-08 15:00:00,Velachery,Mount Road,319,63,High,No,2,Clear,Moderate Delay
+2025-01-08 16:00:00,T. Nagar,ECR,641,49,High,No,1,Rainy,Smooth
+2025-01-08 17:00:00,Adyar,Inner Ring Road,1678,48,Low,Yes,2,Rainy,Heavy Delay
+2025-01-08 18:00:00,Anna Nagar,Mount Road,1851,30,Medium,No,4,Clear,Smooth
+2025-01-08 19:00:00,OMR,Inner Ring Road,893,19,High,Yes,2,Cloudy,Smooth
+2025-01-08 20:00:00,OMR,GST Road,911,47,Low,Yes,0,Cloudy,Smooth
+2025-01-08 21:00:00,Tambaram,OMR Road,1434,55,Medium,No,2,Clear,Heavy Delay
+2025-01-08 22:00:00,OMR,Mount Road,1330,13,Low,No,1,Cloudy,Moderate Delay
+2025-01-08 23:00:00,Velachery,ECR,182,69,Medium,No,0,Clear,Moderate Delay
+2025-01-09 00:00:00,T. Nagar,GST Road,1349,66,Medium,Yes,3,Clear,Heavy Delay
+2025-01-09 01:00:00,OMR,Inner Ring Road,1849,54,Medium,No,4,Clear,Heavy Delay
+2025-01-09 02:00:00,OMR,GST Road,1756,29,Medium,No,4,Clear,Smooth
+2025-01-09 03:00:00,Anna Nagar,Mount Road,1021,26,Medium,Yes,2,Rainy,Smooth
+2025-01-09 04:00:00,Anna Nagar,Inner Ring Road,562,64,Low,Yes,0,Clear,Heavy Delay
+2025-01-09 05:00:00,Guindy,OMR Road,362,16,Low,Yes,3,Clear,Heavy Delay
+2025-01-09 06:00:00,Adyar,GST Road,625,13,High,Yes,0,Clear,Moderate Delay
+2025-01-09 07:00:00,Velachery,Mount Road,935,38,Medium,No,4,Clear,Moderate Delay
+2025-01-09 08:00:00,OMR,ECR,1357,23,Low,No,0,Clear,Smooth
+2025-01-09 09:00:00,Porur,Inner Ring Road,1194,12,High,No,3,Rainy,Heavy Delay
+2025-01-09 10:00:00,OMR,GST Road,1180,33,Low,Yes,2,Clear,Moderate Delay
+2025-01-09 11:00:00,T. Nagar,GST Road,736,46,Medium,No,1,Cloudy,Moderate Delay
+2025-01-09 12:00:00,Guindy,OMR Road,1277,25,Low,Yes,0,Rainy,Smooth
+2025-01-09 13:00:00,Adyar,OMR Road,214,67,High,Yes,1,Clear,Heavy Delay
+2025-01-09 14:00:00,Porur,ECR,354,64,Medium,Yes,4,Cloudy,Moderate Delay
+2025-01-09 15:00:00,Guindy,ECR,1570,61,Low,Yes,2,Clear,Smooth
+2025-01-09 16:00:00,Tambaram,Mount Road,1705,13,High,No,2,Clear,Moderate Delay
+2025-01-09 17:00:00,Adyar,Mount Road,1629,65,Medium,No,0,Clear,Moderate Delay
+2025-01-09 18:00:00,OMR,ECR,1897,33,Low,No,2,Clear,Moderate Delay
+2025-01-09 19:00:00,OMR,ECR,205,43,Low,Yes,0,Clear,Moderate Delay
+2025-01-09 20:00:00,Adyar,Inner Ring Road,1440,39,Low,Yes,0,Rainy,Moderate Delay
+2025-01-09 21:00:00,OMR,OMR Road,1792,27,Low,Yes,1,Clear,Heavy Delay
+2025-01-09 22:00:00,Velachery,Mount Road,1975,28,Medium,No,2,Rainy,Smooth
+2025-01-09 23:00:00,Adyar,OMR Road,669,40,High,No,0,Clear,Smooth
+2025-01-10 00:00:00,Guindy,OMR Road,1324,69,Medium,No,1,Rainy,Smooth
+2025-01-10 01:00:00,Adyar,ECR,1006,69,Low,Yes,3,Clear,Moderate Delay
+2025-01-10 02:00:00,Porur,Inner Ring Road,1989,28,Low,No,1,Clear,Moderate Delay
+2025-01-10 03:00:00,OMR,GST Road,1955,58,Low,No,1,Clear,Heavy Delay
+2025-01-10 04:00:00,Velachery,Inner Ring Road,383,55,Medium,No,0,Clear,Moderate Delay
+2025-01-10 05:00:00,Velachery,Inner Ring Road,1715,28,High,No,4,Clear,Moderate Delay
+2025-01-10 06:00:00,Tambaram,OMR Road,1018,31,Low,No,4,Rainy,Heavy Delay
+2025-01-10 07:00:00,Guindy,Inner Ring Road,560,33,High,No,4,Clear,Smooth
+2025-01-10 08:00:00,Anna Nagar,Mount Road,1366,54,High,Yes,1,Rainy,Heavy Delay
+2025-01-10 09:00:00,Anna Nagar,OMR Road,1093,21,Medium,No,0,Rainy,Moderate Delay
+2025-01-10 10:00:00,Adyar,Mount Road,331,39,High,Yes,2,Cloudy,Moderate Delay
+2025-01-10 11:00:00,Tambaram,GST Road,846,67,Medium,No,1,Clear,Moderate Delay
+2025-01-10 12:00:00,T. Nagar,OMR Road,1074,47,Medium,No,1,Clear,Moderate Delay
+2025-01-10 13:00:00,Adyar,GST Road,168,62,Medium,No,0,Cloudy,Smooth
+2025-01-10 14:00:00,Tambaram,OMR Road,1108,40,Medium,No,3,Rainy,Moderate Delay
+2025-01-10 15:00:00,Guindy,ECR,247,45,Low,No,1,Clear,Moderate Delay
+2025-01-10 16:00:00,Guindy,Inner Ring Road,534,28,Medium,No,3,Clear,Heavy Delay
+2025-01-10 17:00:00,Guindy,ECR,1830,57,Low,No,3,Clear,Moderate Delay
+2025-01-10 18:00:00,Guindy,GST Road,1132,54,Medium,No,4,Clear,Heavy Delay
+2025-01-10 19:00:00,Guindy,Inner Ring Road,886,45,Low,No,0,Rainy,Moderate Delay
+2025-01-10 20:00:00,Tambaram,OMR Road,1234,39,High,No,3,Clear,Moderate Delay
+2025-01-10 21:00:00,Tambaram,Inner Ring Road,1058,64,High,No,0,Clear,Heavy Delay
+2025-01-10 22:00:00,Velachery,Mount Road,740,58,Medium,No,4,Clear,Moderate Delay
+2025-01-10 23:00:00,Porur,Inner Ring Road,1279,64,Low,No,0,Clear,Heavy Delay
+2025-01-11 00:00:00,Anna Nagar,Mount Road,1085,42,High,No,1,Rainy,Moderate Delay
+2025-01-11 01:00:00,OMR,Inner Ring Road,539,27,High,Yes,3,Rainy,Moderate Delay
+2025-01-11 02:00:00,Guindy,Mount Road,325,61,High,Yes,0,Clear,Smooth
+2025-01-11 03:00:00,T. Nagar,GST Road,742,58,Low,No,2,Cloudy,Moderate Delay
+2025-01-11 04:00:00,OMR,ECR,291,68,Medium,Yes,0,Clear,Smooth
+2025-01-11 05:00:00,Tambaram,OMR Road,1289,37,Low,No,3,Clear,Moderate Delay
+2025-01-11 06:00:00,T. Nagar,Inner Ring Road,1324,68,Low,No,4,Clear,Smooth
+2025-01-11 07:00:00,T. Nagar,ECR,1884,56,High,No,4,Clear,Smooth
+2025-01-11 08:00:00,T. Nagar,OMR Road,175,20,High,No,3,Clear,Smooth
+2025-01-11 09:00:00,Velachery,OMR Road,266,66,Medium,No,1,Clear,Smooth
+2025-01-11 10:00:00,Tambaram,Mount Road,1379,69,High,No,1,Rainy,Smooth
+2025-01-11 11:00:00,T. Nagar,GST Road,1870,63,Medium,No,4,Clear,Heavy Delay
+2025-01-11 12:00:00,Guindy,GST Road,1258,54,Medium,Yes,4,Rainy,Heavy Delay
+2025-01-11 13:00:00,Adyar,ECR,1112,42,Medium,No,3,Clear,Moderate Delay
+2025-01-11 14:00:00,T. Nagar,GST Road,1296,26,High,Yes,1,Cloudy,Heavy Delay
+2025-01-11 15:00:00,Velachery,Inner Ring Road,1257,15,Low,No,4,Rainy,Smooth
+2025-01-11 16:00:00,OMR,GST Road,544,13,High,No,1,Clear,Heavy Delay
+2025-01-11 17:00:00,Tambaram,ECR,476,29,High,Yes,4,Rainy,Smooth
+2025-01-11 18:00:00,Porur,GST Road,1251,57,Low,No,0,Clear,Smooth
+2025-01-11 19:00:00,Velachery,Inner Ring Road,968,56,Medium,No,2,Rainy,Moderate Delay
+2025-01-11 20:00:00,T. Nagar,Mount Road,1501,36,High,Yes,0,Clear,Smooth
+2025-01-11 21:00:00,Tambaram,ECR,1367,24,Medium,No,4,Rainy,Moderate Delay
+2025-01-11 22:00:00,Adyar,Mount Road,1925,15,High,Yes,2,Rainy,Smooth
+2025-01-11 23:00:00,T. Nagar,Mount Road,200,56,High,Yes,2,Clear,Heavy Delay
+2025-01-12 00:00:00,Velachery,Mount Road,433,23,Medium,No,4,Clear,Moderate Delay
+2025-01-12 01:00:00,Anna Nagar,OMR Road,1711,69,Medium,No,4,Rainy,Smooth
+2025-01-12 02:00:00,Guindy,OMR Road,1886,20,High,No,1,Clear,Moderate Delay
+2025-01-12 03:00:00,Porur,Mount Road,357,48,Medium,No,4,Clear,Smooth
+2025-01-12 04:00:00,OMR,ECR,1409,18,Low,No,3,Clear,Moderate Delay
+2025-01-12 05:00:00,Velachery,Inner Ring Road,795,35,Low,No,4,Clear,Smooth
+2025-01-12 06:00:00,Tambaram,Inner Ring Road,941,25,Medium,Yes,3,Cloudy,Moderate Delay
+2025-01-12 07:00:00,Porur,GST Road,424,14,High,Yes,4,Clear,Moderate Delay
+2025-01-12 08:00:00,Porur,ECR,1081,66,High,Yes,1,Clear,Smooth
+2025-01-12 09:00:00,Porur,OMR Road,1414,61,Medium,Yes,3,Rainy,Heavy Delay
+2025-01-12 10:00:00,T. Nagar,Mount Road,178,19,Low,No,0,Rainy,Heavy Delay
+2025-01-12 11:00:00,Guindy,GST Road,1064,59,Low,Yes,3,Clear,Moderate Delay
+2025-01-12 12:00:00,T. Nagar,Inner Ring Road,1849,12,High,Yes,1,Clear,Moderate Delay
+2025-01-12 13:00:00,Tambaram,OMR Road,718,22,Low,Yes,3,Cloudy,Smooth
+2025-01-12 14:00:00,T. Nagar,OMR Road,1425,52,Low,No,4,Rainy,Moderate Delay
+2025-01-12 15:00:00,Anna Nagar,Mount Road,1431,58,Low,No,4,Clear,Smooth
+2025-01-12 16:00:00,Guindy,Inner Ring Road,566,39,Medium,No,1,Clear,Smooth
+2025-01-12 17:00:00,Guindy,ECR,1568,63,High,No,2,Clear,Heavy Delay
+2025-01-12 18:00:00,Tambaram,OMR Road,135,54,Low,No,4,Clear,Moderate Delay
+2025-01-12 19:00:00,OMR,Mount Road,1248,15,Medium,No,0,Clear,Moderate Delay
+2025-01-12 20:00:00,Anna Nagar,ECR,1875,26,Medium,Yes,1,Cloudy,Smooth
+2025-01-12 21:00:00,Velachery,Inner Ring Road,1266,68,High,No,3,Clear,Moderate Delay
+2025-01-12 22:00:00,T. Nagar,OMR Road,360,54,Low,No,3,Rainy,Smooth
+2025-01-12 23:00:00,Adyar,ECR,1192,60,Medium,No,0,Clear,Smooth
+2025-01-13 00:00:00,T. Nagar,ECR,1291,62,Medium,No,4,Rainy,Smooth
+2025-01-13 01:00:00,Porur,ECR,476,28,High,No,1,Rainy,Moderate Delay
+2025-01-13 02:00:00,T. Nagar,OMR Road,1487,51,Medium,No,0,Clear,Moderate Delay
+2025-01-13 03:00:00,Velachery,OMR Road,163,44,Low,No,4,Clear,Smooth
+2025-01-13 04:00:00,T. Nagar,GST Road,1218,55,Medium,Yes,1,Clear,Moderate Delay
+2025-01-13 05:00:00,Anna Nagar,Inner Ring Road,1611,35,High,No,3,Cloudy,Smooth
+2025-01-13 06:00:00,Anna Nagar,Mount Road,1721,60,Low,No,1,Cloudy,Moderate Delay
+2025-01-13 07:00:00,Guindy,ECR,352,14,High,No,2,Clear,Heavy Delay
+2025-01-13 08:00:00,Tambaram,GST Road,793,38,Low,No,1,Clear,Moderate Delay
+2025-01-13 09:00:00,OMR,Mount Road,1954,46,Medium,Yes,2,Clear,Heavy Delay
+2025-01-13 10:00:00,Adyar,GST Road,637,29,Medium,No,1,Rainy,Heavy Delay
+2025-01-13 11:00:00,Porur,OMR Road,1036,58,High,Yes,2,Clear,Moderate Delay
+2025-01-13 12:00:00,T. Nagar,ECR,1913,30,Medium,No,3,Clear,Moderate Delay
+2025-01-13 13:00:00,T. Nagar,Mount Road,394,19,High,No,4,Clear,Heavy Delay
+2025-01-13 14:00:00,Velachery,Mount Road,863,14,High,No,2,Clear,Smooth
+2025-01-13 15:00:00,Tambaram,Mount Road,850,45,Medium,Yes,2,Rainy,Smooth
+2025-01-13 16:00:00,Anna Nagar,Mount Road,1074,15,High,No,3,Clear,Heavy Delay
+2025-01-13 17:00:00,Adyar,Mount Road,1220,35,High,Yes,2,Rainy,Moderate Delay
+2025-01-13 18:00:00,Guindy,GST Road,1360,13,Low,No,0,Clear,Smooth
+2025-01-13 19:00:00,Anna Nagar,ECR,1727,48,Medium,No,3,Clear,Moderate Delay
+2025-01-13 20:00:00,Porur,OMR Road,1126,48,High,No,0,Rainy,Heavy Delay
+2025-01-13 21:00:00,Tambaram,OMR Road,1377,59,Low,No,3,Cloudy,Moderate Delay
+2025-01-13 22:00:00,Porur,OMR Road,1142,44,High,No,2,Rainy,Moderate Delay
+2025-01-13 23:00:00,OMR,OMR Road,410,10,High,Yes,0,Clear,Heavy Delay
+2025-01-14 00:00:00,Guindy,GST Road,1675,33,Low,Yes,2,Clear,Moderate Delay
+2025-01-14 01:00:00,OMR,Inner Ring Road,1293,66,Medium,No,3,Cloudy,Moderate Delay
+2025-01-14 02:00:00,Velachery,ECR,1059,45,Medium,No,2,Clear,Moderate Delay
+2025-01-14 03:00:00,Porur,Mount Road,753,15,Medium,No,0,Clear,Moderate Delay
+2025-01-14 04:00:00,Velachery,Inner Ring Road,624,50,Low,Yes,0,Cloudy,Moderate Delay
+2025-01-14 05:00:00,T. Nagar,OMR Road,1658,63,Low,No,2,Rainy,Smooth
+2025-01-14 06:00:00,OMR,Inner Ring Road,1234,55,Medium,No,1,Cloudy,Moderate Delay
+2025-01-14 07:00:00,Tambaram,ECR,1754,69,High,No,3,Cloudy,Heavy Delay
+2025-01-14 08:00:00,Porur,Mount Road,1162,53,High,Yes,3,Cloudy,Smooth
+2025-01-14 09:00:00,Adyar,Mount Road,737,69,Medium,Yes,2,Clear,Smooth
+2025-01-14 10:00:00,Guindy,ECR,830,66,Low,No,1,Clear,Moderate Delay
+2025-01-14 11:00:00,Anna Nagar,ECR,634,40,Medium,No,0,Clear,Heavy Delay
+2025-01-14 12:00:00,Tambaram,OMR Road,1830,29,Low,Yes,4,Clear,Smooth
+2025-01-14 13:00:00,Tambaram,Mount Road,638,33,High,No,4,Clear,Smooth
+2025-01-14 14:00:00,Velachery,Inner Ring Road,1232,34,High,No,2,Clear,Smooth
+2025-01-14 15:00:00,OMR,GST Road,538,45,High,No,1,Clear,Moderate Delay
+2025-01-14 16:00:00,Porur,GST Road,1020,30,High,No,1,Clear,Smooth
+2025-01-14 17:00:00,Porur,ECR,1397,39,Low,Yes,3,Clear,Smooth
+2025-01-14 18:00:00,T. Nagar,OMR Road,1683,33,High,Yes,0,Clear,Moderate Delay
+2025-01-14 19:00:00,T. Nagar,GST Road,1454,53,Medium,No,1,Clear,Heavy Delay
+2025-01-14 20:00:00,Guindy,Mount Road,1175,51,High,No,4,Rainy,Moderate Delay
+2025-01-14 21:00:00,Velachery,ECR,543,39,Low,Yes,0,Clear,Smooth
+2025-01-14 22:00:00,Tambaram,Inner Ring Road,1717,31,High,Yes,0,Clear,Moderate Delay
+2025-01-14 23:00:00,Porur,ECR,1687,37,High,No,2,Rainy,Heavy Delay
+2025-01-15 00:00:00,Adyar,Inner Ring Road,68,16,Low,Yes,1,Clear,Moderate Delay
+2025-01-15 01:00:00,Velachery,ECR,1527,44,Medium,Yes,2,Clear,Heavy Delay
+2025-01-15 02:00:00,Guindy,ECR,1555,64,High,Yes,1,Clear,Heavy Delay
+2025-01-15 03:00:00,Guindy,ECR,1667,37,Medium,Yes,3,Clear,Smooth
+2025-01-15 04:00:00,Velachery,Inner Ring Road,446,23,Low,No,2,Cloudy,Moderate Delay
+2025-01-15 05:00:00,Guindy,Inner Ring Road,1050,65,Low,No,2,Clear,Smooth
+2025-01-15 06:00:00,Velachery,ECR,1352,19,Low,No,4,Rainy,Moderate Delay
+2025-01-15 07:00:00,Anna Nagar,GST Road,900,25,High,Yes,2,Clear,Smooth
+2025-01-15 08:00:00,Velachery,OMR Road,1438,25,Medium,Yes,1,Clear,Smooth
+2025-01-15 09:00:00,OMR,OMR Road,1404,63,Low,No,4,Clear,Heavy Delay
+2025-01-15 10:00:00,Velachery,OMR Road,1714,40,Medium,No,2,Clear,Smooth
+2025-01-15 11:00:00,Guindy,Inner Ring Road,1417,51,Medium,No,2,Clear,Heavy Delay
+2025-01-15 12:00:00,Porur,Inner Ring Road,871,34,Low,Yes,3,Clear,Smooth
+2025-01-15 13:00:00,OMR,GST Road,504,22,Medium,No,2,Clear,Smooth
+2025-01-15 14:00:00,Guindy,OMR Road,1674,15,Medium,Yes,0,Rainy,Heavy Delay
+2025-01-15 15:00:00,T. Nagar,OMR Road,774,53,Medium,No,4,Clear,Moderate Delay
+2025-01-15 16:00:00,T. Nagar,ECR,1728,18,High,No,0,Cloudy,Moderate Delay
+2025-01-15 17:00:00,Porur,Inner Ring Road,1138,54,Low,No,4,Rainy,Smooth
+2025-01-15 18:00:00,Porur,OMR Road,1149,45,Medium,Yes,3,Clear,Moderate Delay
+2025-01-15 19:00:00,OMR,GST Road,760,65,Medium,No,2,Clear,Moderate Delay
+2025-01-15 20:00:00,Anna Nagar,GST Road,192,52,Medium,No,2,Clear,Moderate Delay
+2025-01-15 21:00:00,Porur,OMR Road,966,29,Medium,Yes,2,Rainy,Moderate Delay
+2025-01-15 22:00:00,T. Nagar,Inner Ring Road,1988,27,Medium,Yes,4,Clear,Heavy Delay
+2025-01-15 23:00:00,Velachery,GST Road,877,67,High,Yes,2,Rainy,Moderate Delay
+2025-01-16 00:00:00,Guindy,ECR,654,52,Medium,No,0,Clear,Heavy Delay
+2025-01-16 01:00:00,T. Nagar,GST Road,1546,66,Medium,Yes,2,Rainy,Moderate Delay
+2025-01-16 02:00:00,T. Nagar,Mount Road,1490,30,High,No,3,Clear,Moderate Delay
+2025-01-16 03:00:00,Anna Nagar,Mount Road,354,13,Medium,No,0,Cloudy,Smooth
+2025-01-16 04:00:00,OMR,Inner Ring Road,785,59,Low,No,2,Clear,Smooth
+2025-01-16 05:00:00,OMR,OMR Road,1570,42,Low,No,2,Clear,Heavy Delay
+2025-01-16 06:00:00,Tambaram,Inner Ring Road,340,36,Low,No,1,Clear,Smooth
+2025-01-16 07:00:00,Anna Nagar,Inner Ring Road,151,16,High,Yes,4,Clear,Smooth
+2025-01-16 08:00:00,Velachery,Inner Ring Road,1340,15,High,Yes,0,Cloudy,Smooth
+2025-01-16 09:00:00,OMR,Inner Ring Road,916,24,High,Yes,1,Clear,Smooth
+2025-01-16 10:00:00,Guindy,ECR,1017,27,Medium,No,3,Clear,Heavy Delay
+2025-01-16 11:00:00,Porur,ECR,1695,41,Medium,Yes,4,Clear,Heavy Delay
+2025-01-16 12:00:00,Anna Nagar,GST Road,1023,65,Low,Yes,0,Clear,Moderate Delay
+2025-01-16 13:00:00,Porur,Mount Road,891,20,Medium,No,2,Clear,Smooth
+2025-01-16 14:00:00,T. Nagar,Inner Ring Road,1011,29,Medium,No,0,Rainy,Moderate Delay
+2025-01-16 15:00:00,Guindy,GST Road,991,33,High,Yes,2,Clear,Moderate Delay
+2025-01-16 16:00:00,Guindy,Mount Road,1850,24,Low,Yes,4,Cloudy,Heavy Delay
+2025-01-16 17:00:00,T. Nagar,OMR Road,1076,57,Medium,Yes,2,Clear,Moderate Delay
+2025-01-16 18:00:00,Anna Nagar,ECR,134,16,Medium,No,3,Clear,Smooth
+2025-01-16 19:00:00,T. Nagar,Mount Road,1867,30,Medium,No,2,Rainy,Moderate Delay
+2025-01-16 20:00:00,Porur,OMR Road,377,51,Medium,Yes,3,Rainy,Heavy Delay
+2025-01-16 21:00:00,Tambaram,Mount Road,865,35,High,Yes,4,Clear,Moderate Delay
+2025-01-16 22:00:00,Guindy,ECR,1523,53,Low,Yes,4,Rainy,Moderate Delay
+2025-01-16 23:00:00,Adyar,ECR,503,65,High,Yes,0,Clear,Smooth
+2025-01-17 00:00:00,Adyar,GST Road,1997,23,Medium,No,3,Clear,Moderate Delay
+2025-01-17 01:00:00,Porur,Inner Ring Road,678,66,High,No,3,Cloudy,Heavy Delay
+2025-01-17 02:00:00,Velachery,Mount Road,1294,46,High,No,1,Clear,Smooth
+2025-01-17 03:00:00,OMR,Mount Road,1227,67,Medium,No,1,Clear,Moderate Delay
+2025-01-17 04:00:00,T. Nagar,OMR Road,714,30,Low,Yes,1,Rainy,Smooth
+2025-01-17 05:00:00,T. Nagar,ECR,61,27,High,No,2,Cloudy,Smooth
+2025-01-17 06:00:00,Velachery,Mount Road,1206,14,Medium,No,1,Clear,Smooth
+2025-01-17 07:00:00,Velachery,ECR,353,12,High,Yes,3,Clear,Smooth
+2025-01-17 08:00:00,Porur,Mount Road,1366,32,Low,No,2,Clear,Moderate Delay
+2025-01-17 09:00:00,Porur,GST Road,1024,35,Medium,Yes,4,Cloudy,Smooth
+2025-01-17 10:00:00,Velachery,Inner Ring Road,1373,46,High,Yes,0,Cloudy,Smooth
+2025-01-17 11:00:00,Guindy,Mount Road,1813,33,High,Yes,1,Clear,Heavy Delay
+2025-01-17 12:00:00,Porur,ECR,832,58,Medium,No,4,Clear,Moderate Delay
+2025-01-17 13:00:00,Tambaram,GST Road,92,28,High,No,3,Clear,Moderate Delay
+2025-01-17 14:00:00,Porur,Mount Road,993,60,Medium,No,0,Rainy,Moderate Delay
+2025-01-17 15:00:00,T. Nagar,OMR Road,392,34,Low,No,4,Rainy,Moderate Delay
+2025-01-17 16:00:00,Porur,Inner Ring Road,1399,30,Medium,No,0,Rainy,Smooth
+2025-01-17 17:00:00,Guindy,Mount Road,1887,21,Medium,No,1,Cloudy,Heavy Delay
+2025-01-17 18:00:00,Velachery,GST Road,547,66,High,Yes,3,Clear,Smooth
+2025-01-17 19:00:00,T. Nagar,OMR Road,413,50,Medium,No,0,Clear,Moderate Delay
+2025-01-17 20:00:00,Porur,GST Road,940,42,Low,Yes,4,Clear,Smooth
+2025-01-17 21:00:00,Guindy,GST Road,476,59,Low,No,1,Clear,Moderate Delay
+2025-01-17 22:00:00,Tambaram,OMR Road,1054,62,Medium,No,1,Clear,Moderate Delay
+2025-01-17 23:00:00,Porur,GST Road,70,13,Medium,Yes,4,Clear,Moderate Delay
+2025-01-18 00:00:00,Guindy,OMR Road,456,51,High,No,4,Rainy,Smooth
+2025-01-18 01:00:00,Tambaram,Mount Road,668,66,Medium,No,0,Cloudy,Moderate Delay
+2025-01-18 02:00:00,Velachery,OMR Road,1064,16,High,No,2,Clear,Heavy Delay
+2025-01-18 03:00:00,Porur,OMR Road,385,31,High,Yes,1,Clear,Heavy Delay
+2025-01-18 04:00:00,Tambaram,Inner Ring Road,1888,64,Medium,Yes,0,Clear,Smooth
+2025-01-18 05:00:00,T. Nagar,OMR Road,1190,42,High,Yes,4,Rainy,Smooth
+2025-01-18 06:00:00,Velachery,OMR Road,1197,26,High,Yes,0,Rainy,Heavy Delay
+2025-01-18 07:00:00,T. Nagar,Mount Road,448,33,Medium,Yes,4,Clear,Moderate Delay
+2025-01-18 08:00:00,Adyar,Inner Ring Road,842,43,Low,No,3,Clear,Moderate Delay
+2025-01-18 09:00:00,Anna Nagar,ECR,1877,37,Medium,Yes,4,Clear,Heavy Delay
+2025-01-18 10:00:00,Porur,Mount Road,764,67,Medium,No,4,Clear,Heavy Delay
+2025-01-18 11:00:00,Tambaram,Mount Road,100,52,High,No,4,Clear,Moderate Delay
+2025-01-18 12:00:00,Anna Nagar,ECR,1856,50,Medium,No,2,Rainy,Moderate Delay
+2025-01-18 13:00:00,Anna Nagar,OMR Road,373,48,High,No,4,Cloudy,Smooth
+2025-01-18 14:00:00,Tambaram,GST Road,838,31,Medium,No,1,Clear,Moderate Delay
+2025-01-18 15:00:00,Velachery,Inner Ring Road,190,58,Low,No,1,Rainy,Smooth
+2025-01-18 16:00:00,Porur,GST Road,519,26,High,Yes,0,Cloudy,Smooth
+2025-01-18 17:00:00,Adyar,ECR,836,43,Medium,Yes,2,Clear,Smooth
+2025-01-18 18:00:00,T. Nagar,Mount Road,1875,15,Medium,No,0,Clear,Smooth
+2025-01-18 19:00:00,Guindy,Mount Road,1407,55,Medium,Yes,1,Cloudy,Moderate Delay
+2025-01-18 20:00:00,T. Nagar,Inner Ring Road,1966,15,Low,Yes,1,Clear,Moderate Delay
+2025-01-18 21:00:00,Guindy,Mount Road,1013,43,Medium,Yes,3,Cloudy,Moderate Delay
+2025-01-18 22:00:00,T. Nagar,Mount Road,1057,10,Medium,Yes,4,Cloudy,Smooth
+2025-01-18 23:00:00,Tambaram,Inner Ring Road,422,19,Medium,No,1,Rainy,Heavy Delay
+2025-01-19 00:00:00,Adyar,Inner Ring Road,1637,30,High,Yes,0,Rainy,Smooth
+2025-01-19 01:00:00,Porur,ECR,543,14,Medium,No,0,Rainy,Heavy Delay
+2025-01-19 02:00:00,Guindy,Mount Road,1612,11,Low,No,4,Rainy,Heavy Delay
+2025-01-19 03:00:00,Porur,Mount Road,1742,31,Medium,No,4,Clear,Moderate Delay
+2025-01-19 04:00:00,Porur,ECR,800,57,High,No,3,Clear,Moderate Delay
+2025-01-19 05:00:00,Porur,OMR Road,1229,66,Low,No,2,Clear,Heavy Delay
+2025-01-19 06:00:00,OMR,OMR Road,340,11,Low,Yes,0,Rainy,Smooth
+2025-01-19 07:00:00,Velachery,OMR Road,1721,19,Low,No,4,Clear,Moderate Delay
+2025-01-19 08:00:00,T. Nagar,ECR,1217,43,Low,No,0,Clear,Moderate Delay
+2025-01-19 09:00:00,Porur,Mount Road,155,25,High,No,4,Clear,Smooth
+2025-01-19 10:00:00,T. Nagar,ECR,1493,57,High,No,1,Rainy,Heavy Delay
+2025-01-19 11:00:00,Porur,ECR,719,60,Medium,Yes,0,Cloudy,Heavy Delay
+2025-01-19 12:00:00,Guindy,OMR Road,1731,48,Medium,No,1,Cloudy,Heavy Delay
+2025-01-19 13:00:00,Velachery,GST Road,51,31,Medium,No,0,Clear,Smooth
+2025-01-19 14:00:00,Velachery,Mount Road,638,21,High,Yes,2,Cloudy,Smooth
+2025-01-19 15:00:00,Tambaram,OMR Road,693,33,High,No,3,Rainy,Moderate Delay
+2025-01-19 16:00:00,OMR,GST Road,139,56,Medium,Yes,1,Clear,Smooth
+2025-01-19 17:00:00,Tambaram,GST Road,1418,49,High,Yes,4,Clear,Moderate Delay
+2025-01-19 18:00:00,Tambaram,Inner Ring Road,399,47,High,Yes,2,Clear,Moderate Delay
+2025-01-19 19:00:00,Tambaram,Mount Road,1532,69,Medium,Yes,0,Cloudy,Moderate Delay
+2025-01-19 20:00:00,Tambaram,GST Road,1336,68,Low,No,1,Clear,Moderate Delay
+2025-01-19 21:00:00,Tambaram,OMR Road,1424,19,Medium,Yes,0,Clear,Moderate Delay
+2025-01-19 22:00:00,Adyar,Inner Ring Road,1181,44,High,No,0,Rainy,Smooth
+2025-01-19 23:00:00,Velachery,Mount Road,1659,60,High,No,0,Clear,Smooth
+2025-01-20 00:00:00,Tambaram,ECR,1112,58,High,Yes,3,Clear,Moderate Delay
+2025-01-20 01:00:00,Porur,OMR Road,958,41,High,No,3,Rainy,Moderate Delay
+2025-01-20 02:00:00,Velachery,GST Road,208,16,Medium,No,4,Clear,Heavy Delay
+2025-01-20 03:00:00,Velachery,GST Road,1656,30,High,No,1,Rainy,Heavy Delay
+2025-01-20 04:00:00,Anna Nagar,OMR Road,1008,29,High,Yes,2,Clear,Heavy Delay
+2025-01-20 05:00:00,Adyar,GST Road,361,35,Medium,No,2,Rainy,Smooth
+2025-01-20 06:00:00,Tambaram,Inner Ring Road,1314,13,Medium,No,2,Rainy,Smooth
+2025-01-20 07:00:00,T. Nagar,Mount Road,494,55,High,Yes,0,Clear,Smooth
+2025-01-20 08:00:00,Guindy,Inner Ring Road,347,61,Low,Yes,3,Clear,Moderate Delay
+2025-01-20 09:00:00,OMR,GST Road,1001,31,High,No,1,Rainy,Moderate Delay
+2025-01-20 10:00:00,Porur,ECR,85,24,Low,Yes,0,Rainy,Heavy Delay
+2025-01-20 11:00:00,T. Nagar,Mount Road,1157,65,Medium,No,3,Rainy,Moderate Delay
+2025-01-20 12:00:00,Adyar,Mount Road,1525,49,High,Yes,3,Cloudy,Heavy Delay
+2025-01-20 13:00:00,Guindy,OMR Road,1959,30,Low,No,1,Clear,Heavy Delay
+2025-01-20 14:00:00,Adyar,OMR Road,1848,24,Low,No,1,Clear,Smooth
+2025-01-20 15:00:00,Porur,ECR,1895,31,Medium,Yes,1,Cloudy,Moderate Delay
+2025-01-20 16:00:00,Velachery,Mount Road,1458,61,High,Yes,0,Clear,Moderate Delay
+2025-01-20 17:00:00,Guindy,ECR,1245,37,Low,No,4,Clear,Smooth
+2025-01-20 18:00:00,Velachery,OMR Road,1449,23,High,No,1,Clear,Moderate Delay
+2025-01-20 19:00:00,Porur,OMR Road,1758,36,Low,No,4,Clear,Moderate Delay
+2025-01-20 20:00:00,T. Nagar,Mount Road,1435,50,High,Yes,0,Clear,Smooth
+2025-01-20 21:00:00,Porur,Inner Ring Road,608,49,High,Yes,4,Cloudy,Moderate Delay
+2025-01-20 22:00:00,T. Nagar,GST Road,940,67,Medium,Yes,2,Clear,Moderate Delay
+2025-01-20 23:00:00,Guindy,OMR Road,190,37,Medium,No,4,Clear,Smooth
+2025-01-21 00:00:00,Guindy,OMR Road,936,35,Medium,Yes,1,Cloudy,Moderate Delay
+2025-01-21 01:00:00,Tambaram,Inner Ring Road,1991,58,Medium,No,0,Cloudy,Smooth
+2025-01-21 02:00:00,Adyar,Inner Ring Road,1191,11,Low,No,1,Clear,Moderate Delay
+2025-01-21 03:00:00,Tambaram,ECR,1350,34,Low,No,2,Clear,Smooth
+2025-01-21 04:00:00,Adyar,ECR,775,65,Low,Yes,1,Rainy,Heavy Delay
+2025-01-21 05:00:00,Tambaram,GST Road,1293,12,Medium,Yes,1,Rainy,Moderate Delay
+2025-01-21 06:00:00,Velachery,GST Road,1978,17,Low,No,1,Rainy,Smooth
+2025-01-21 07:00:00,Guindy,Mount Road,1099,53,Medium,No,3,Cloudy,Moderate Delay
+2025-01-21 08:00:00,T. Nagar,ECR,570,42,High,Yes,2,Rainy,Moderate Delay
+2025-01-21 09:00:00,Adyar,OMR Road,1856,51,Medium,No,1,Clear,Moderate Delay
+2025-01-21 10:00:00,Porur,ECR,59,61,Medium,No,1,Rainy,Moderate Delay
+2025-01-21 11:00:00,Adyar,OMR Road,1033,44,Medium,Yes,1,Clear,Moderate Delay
+2025-01-21 12:00:00,T. Nagar,Inner Ring Road,427,15,High,Yes,0,Rainy,Smooth
+2025-01-21 13:00:00,Tambaram,ECR,1706,48,High,No,3,Rainy,Smooth
+2025-01-21 14:00:00,Adyar,Inner Ring Road,1710,61,High,No,0,Clear,Moderate Delay
+2025-01-21 15:00:00,OMR,GST Road,731,32,High,Yes,3,Clear,Moderate Delay
+2025-01-21 16:00:00,Velachery,GST Road,633,34,Low,No,1,Clear,Smooth
+2025-01-21 17:00:00,Guindy,Mount Road,201,68,High,No,2,Clear,Heavy Delay
+2025-01-21 18:00:00,T. Nagar,ECR,769,59,High,Yes,4,Rainy,Smooth
+2025-01-21 19:00:00,Guindy,Inner Ring Road,1122,52,Low,No,4,Clear,Heavy Delay
+2025-01-21 20:00:00,OMR,OMR Road,1227,28,High,No,1,Rainy,Smooth
+2025-01-21 21:00:00,Adyar,GST Road,908,14,Low,Yes,0,Clear,Smooth
+2025-01-21 22:00:00,Adyar,GST Road,1366,60,Medium,Yes,2,Rainy,Heavy Delay
+2025-01-21 23:00:00,Porur,OMR Road,1653,20,Low,No,3,Rainy,Smooth
+2025-01-22 00:00:00,OMR,Inner Ring Road,99,65,Medium,No,1,Rainy,Heavy Delay
+2025-01-22 01:00:00,T. Nagar,Inner Ring Road,713,21,High,No,2,Clear,Smooth
+2025-01-22 02:00:00,Porur,ECR,580,19,Medium,No,2,Cloudy,Moderate Delay
+2025-01-22 03:00:00,Velachery,ECR,1685,17,Medium,No,3,Clear,Heavy Delay
+2025-01-22 04:00:00,Porur,Mount Road,1133,33,Medium,No,2,Clear,Smooth
+2025-01-22 05:00:00,Anna Nagar,GST Road,1240,69,High,No,0,Clear,Heavy Delay
+2025-01-22 06:00:00,T. Nagar,ECR,1275,37,Low,Yes,0,Clear,Moderate Delay
+2025-01-22 07:00:00,Anna Nagar,Inner Ring Road,906,50,Medium,Yes,0,Cloudy,Moderate Delay
+2025-01-22 08:00:00,OMR,OMR Road,195,45,High,Yes,2,Clear,Moderate Delay
+2025-01-22 09:00:00,Tambaram,Inner Ring Road,964,46,High,No,0,Rainy,Heavy Delay
+2025-01-22 10:00:00,Anna Nagar,GST Road,1749,30,Medium,Yes,3,Rainy,Smooth
+2025-01-22 11:00:00,Velachery,Inner Ring Road,1042,17,High,No,2,Clear,Smooth
+2025-01-22 12:00:00,Porur,Mount Road,1512,64,High,Yes,4,Rainy,Heavy Delay
+2025-01-22 13:00:00,Tambaram,GST Road,291,18,High,Yes,2,Clear,Heavy Delay
+2025-01-22 14:00:00,Porur,OMR Road,630,56,Medium,No,3,Clear,Smooth
+2025-01-22 15:00:00,Anna Nagar,Mount Road,736,24,Low,No,4,Clear,Moderate Delay
+2025-01-22 16:00:00,Porur,GST Road,1634,57,Low,Yes,2,Cloudy,Moderate Delay
+2025-01-22 17:00:00,OMR,OMR Road,532,55,Low,Yes,0,Cloudy,Moderate Delay
+2025-01-22 18:00:00,Tambaram,Mount Road,1181,49,Medium,No,1,Clear,Smooth
+2025-01-22 19:00:00,OMR,Mount Road,1299,27,Low,Yes,1,Clear,Moderate Delay
+2025-01-22 20:00:00,Anna Nagar,GST Road,722,51,Medium,Yes,0,Rainy,Smooth
+2025-01-22 21:00:00,OMR,ECR,680,69,Medium,No,1,Clear,Heavy Delay
+2025-01-22 22:00:00,Velachery,Mount Road,710,29,Low,Yes,1,Cloudy,Heavy Delay
+2025-01-22 23:00:00,Anna Nagar,Mount Road,711,15,High,No,0,Clear,Moderate Delay
+2025-01-23 00:00:00,Anna Nagar,OMR Road,1505,21,Medium,Yes,0,Clear,Smooth
+2025-01-23 01:00:00,Anna Nagar,Inner Ring Road,854,11,Low,Yes,2,Rainy,Smooth
+2025-01-23 02:00:00,T. Nagar,GST Road,1728,16,High,Yes,2,Clear,Moderate Delay
+2025-01-23 03:00:00,Porur,GST Road,468,25,Low,Yes,0,Cloudy,Moderate Delay
+2025-01-23 04:00:00,T. Nagar,ECR,1037,12,High,Yes,3,Cloudy,Smooth
+2025-01-23 05:00:00,T. Nagar,ECR,1528,54,High,Yes,1,Clear,Moderate Delay
+2025-01-23 06:00:00,Velachery,GST Road,1233,12,Medium,No,2,Clear,Smooth
+2025-01-23 07:00:00,Tambaram,ECR,1596,36,High,Yes,1,Cloudy,Smooth
+2025-01-23 08:00:00,Porur,OMR Road,699,59,Medium,No,4,Cloudy,Smooth
+2025-01-23 09:00:00,OMR,GST Road,1018,52,Medium,No,0,Clear,Smooth
+2025-01-23 10:00:00,Adyar,ECR,639,49,Low,No,3,Rainy,Smooth
+2025-01-23 11:00:00,Anna Nagar,GST Road,1150,47,Low,Yes,4,Clear,Moderate Delay
+2025-01-23 12:00:00,OMR,Inner Ring Road,558,42,High,No,4,Clear,Heavy Delay
+2025-01-23 13:00:00,Anna Nagar,Mount Road,490,37,Medium,Yes,4,Cloudy,Heavy Delay
+2025-01-23 14:00:00,Velachery,GST Road,1327,10,Medium,Yes,0,Clear,Smooth
+2025-01-23 15:00:00,Anna Nagar,Mount Road,970,64,Medium,No,2,Cloudy,Smooth
+2025-01-23 16:00:00,T. Nagar,ECR,819,17,Medium,No,0,Clear,Smooth
+2025-01-23 17:00:00,Porur,Mount Road,1393,46,Low,No,2,Rainy,Smooth
+2025-01-23 18:00:00,Adyar,GST Road,1876,41,Medium,Yes,4,Clear,Moderate Delay
+2025-01-23 19:00:00,Guindy,Inner Ring Road,312,69,High,No,4,Clear,Moderate Delay
+2025-01-23 20:00:00,Anna Nagar,ECR,1670,57,Low,Yes,3,Rainy,Smooth
+2025-01-23 21:00:00,OMR,GST Road,1731,52,Low,No,2,Clear,Smooth
+2025-01-23 22:00:00,T. Nagar,ECR,1908,46,Low,Yes,4,Clear,Smooth
+2025-01-23 23:00:00,Guindy,OMR Road,1627,13,Medium,No,1,Clear,Smooth
+2025-01-24 00:00:00,Adyar,Mount Road,1447,39,High,No,3,Clear,Moderate Delay
+2025-01-24 01:00:00,Guindy,OMR Road,686,15,Low,No,0,Rainy,Smooth
+2025-01-24 02:00:00,T. Nagar,GST Road,1240,55,Low,No,3,Clear,Moderate Delay
+2025-01-24 03:00:00,Porur,Inner Ring Road,1826,63,Medium,No,1,Clear,Moderate Delay
+2025-01-24 04:00:00,Porur,ECR,508,28,High,Yes,2,Clear,Heavy Delay
+2025-01-24 05:00:00,Tambaram,Mount Road,1048,41,Medium,Yes,0,Clear,Heavy Delay
+2025-01-24 06:00:00,Porur,ECR,1353,18,Medium,Yes,0,Clear,Moderate Delay
+2025-01-24 07:00:00,Tambaram,GST Road,749,21,High,No,2,Clear,Smooth
+2025-01-24 08:00:00,Guindy,ECR,351,20,Medium,No,3,Clear,Moderate Delay
+2025-01-24 09:00:00,Velachery,Mount Road,1604,55,High,No,4,Rainy,Heavy Delay
+2025-01-24 10:00:00,OMR,GST Road,1653,64,High,Yes,3,Rainy,Smooth
+2025-01-24 11:00:00,OMR,ECR,1291,25,Low,Yes,1,Clear,Moderate Delay
+2025-01-24 12:00:00,Guindy,Inner Ring Road,1175,10,Low,No,4,Clear,Heavy Delay
+2025-01-24 13:00:00,Anna Nagar,GST Road,603,54,Low,No,3,Clear,Moderate Delay
+2025-01-24 14:00:00,Anna Nagar,GST Road,337,64,Medium,No,2,Clear,Smooth
+2025-01-24 15:00:00,Porur,Inner Ring Road,1240,62,High,No,1,Clear,Smooth
+2025-01-24 16:00:00,OMR,OMR Road,670,30,Medium,Yes,1,Clear,Moderate Delay
+2025-01-24 17:00:00,OMR,Mount Road,1055,39,Low,No,1,Clear,Smooth
+2025-01-24 18:00:00,Tambaram,OMR Road,85,22,High,No,4,Clear,Moderate Delay
+2025-01-24 19:00:00,Velachery,ECR,793,43,Medium,Yes,0,Clear,Moderate Delay
+2025-01-24 20:00:00,T. Nagar,Inner Ring Road,1814,13,Low,Yes,4,Clear,Smooth
+2025-01-24 21:00:00,Anna Nagar,OMR Road,402,37,Medium,Yes,3,Clear,Heavy Delay
+2025-01-24 22:00:00,OMR,GST Road,1749,47,Medium,No,0,Clear,Moderate Delay
+2025-01-24 23:00:00,Tambaram,ECR,1972,67,High,No,3,Clear,Smooth
+2025-01-25 00:00:00,Adyar,ECR,122,40,Low,No,0,Clear,Heavy Delay
+2025-01-25 01:00:00,Tambaram,OMR Road,697,68,Low,No,4,Clear,Heavy Delay
+2025-01-25 02:00:00,Anna Nagar,OMR Road,1426,64,Medium,No,1,Clear,Moderate Delay
+2025-01-25 03:00:00,Anna Nagar,Inner Ring Road,1964,36,Low,Yes,2,Clear,Heavy Delay
+2025-01-25 04:00:00,Tambaram,Mount Road,1143,14,Medium,No,1,Clear,Moderate Delay
+2025-01-25 05:00:00,T. Nagar,OMR Road,474,34,Medium,No,4,Clear,Heavy Delay
+2025-01-25 06:00:00,Guindy,OMR Road,1048,12,Medium,No,0,Clear,Moderate Delay
+2025-01-25 07:00:00,Anna Nagar,GST Road,757,42,High,No,1,Rainy,Moderate Delay
+2025-01-25 08:00:00,Tambaram,ECR,1854,13,Medium,No,4,Clear,Heavy Delay
+2025-01-25 09:00:00,OMR,Mount Road,610,34,Low,Yes,3,Clear,Moderate Delay
+2025-01-25 10:00:00,Tambaram,GST Road,877,29,Medium,No,2,Cloudy,Smooth
+2025-01-25 11:00:00,Velachery,Inner Ring Road,1715,43,High,Yes,1,Clear,Moderate Delay
+2025-01-25 12:00:00,Guindy,Inner Ring Road,1005,35,High,Yes,0,Clear,Moderate Delay
+2025-01-25 13:00:00,Adyar,OMR Road,566,14,Low,Yes,3,Cloudy,Smooth
+2025-01-25 14:00:00,T. Nagar,OMR Road,477,44,High,Yes,4,Rainy,Heavy Delay
+2025-01-25 15:00:00,Porur,Inner Ring Road,1612,37,Medium,Yes,2,Clear,Smooth
+2025-01-25 16:00:00,Adyar,OMR Road,209,38,Low,No,0,Clear,Smooth
+2025-01-25 17:00:00,Guindy,Mount Road,198,18,Low,No,4,Clear,Heavy Delay
+2025-01-25 18:00:00,Guindy,OMR Road,825,61,Low,Yes,4,Clear,Moderate Delay
+2025-01-25 19:00:00,Guindy,ECR,1303,47,High,Yes,1,Clear,Smooth
+2025-01-25 20:00:00,Adyar,OMR Road,1785,59,Low,Yes,1,Clear,Moderate Delay
+2025-01-25 21:00:00,OMR,GST Road,1635,15,Low,Yes,0,Clear,Moderate Delay
+2025-01-25 22:00:00,Guindy,Mount Road,116,28,High,Yes,4,Cloudy,Smooth
+2025-01-25 23:00:00,Tambaram,GST Road,1063,69,Medium,No,1,Cloudy,Heavy Delay
+2025-01-26 00:00:00,Adyar,GST Road,1885,53,Low,Yes,2,Clear,Moderate Delay
+2025-01-26 01:00:00,Porur,ECR,430,66,Low,No,2,Rainy,Moderate Delay
+2025-01-26 02:00:00,Guindy,Mount Road,107,20,Low,Yes,4,Clear,Moderate Delay
+2025-01-26 03:00:00,Tambaram,Mount Road,1332,11,Low,No,1,Cloudy,Moderate Delay
+2025-01-26 04:00:00,OMR,Mount Road,391,56,Medium,No,0,Clear,Smooth
+2025-01-26 05:00:00,Velachery,Mount Road,1911,53,Low,No,0,Clear,Smooth
+2025-01-26 06:00:00,OMR,Mount Road,1203,53,Low,No,0,Clear,Moderate Delay
+2025-01-26 07:00:00,Porur,ECR,776,18,High,Yes,2,Clear,Heavy Delay
+2025-01-26 08:00:00,Guindy,OMR Road,1245,30,Medium,Yes,1,Clear,Smooth
+2025-01-26 09:00:00,Porur,GST Road,819,33,Medium,No,1,Rainy,Moderate Delay
+2025-01-26 10:00:00,Adyar,Mount Road,663,43,Medium,Yes,2,Rainy,Heavy Delay
+2025-01-26 11:00:00,Anna Nagar,OMR Road,1282,31,Medium,No,0,Clear,Smooth
+2025-01-26 12:00:00,Guindy,OMR Road,1876,12,Medium,Yes,0,Clear,Smooth
+2025-01-26 13:00:00,Anna Nagar,GST Road,403,21,Medium,Yes,4,Clear,Smooth
+2025-01-26 14:00:00,Tambaram,ECR,1544,37,Medium,No,3,Cloudy,Moderate Delay
+2025-01-26 15:00:00,Velachery,Inner Ring Road,1871,39,High,No,1,Cloudy,Smooth
+2025-01-26 16:00:00,T. Nagar,Inner Ring Road,165,35,Low,No,1,Cloudy,Moderate Delay
+2025-01-26 17:00:00,Porur,OMR Road,1337,57,High,Yes,1,Cloudy,Moderate Delay
+2025-01-26 18:00:00,OMR,GST Road,711,30,Low,No,3,Clear,Moderate Delay
+2025-01-26 19:00:00,Velachery,Inner Ring Road,1885,37,High,Yes,4,Clear,Smooth
+2025-01-26 20:00:00,Guindy,OMR Road,1515,65,Medium,Yes,3,Clear,Moderate Delay
+2025-01-26 21:00:00,Anna Nagar,ECR,1621,35,High,No,0,Cloudy,Heavy Delay
+2025-01-26 22:00:00,OMR,Inner Ring Road,502,42,Low,Yes,0,Clear,Heavy Delay
+2025-01-26 23:00:00,Anna Nagar,OMR Road,1918,30,Medium,Yes,1,Clear,Heavy Delay
+2025-01-27 00:00:00,Adyar,OMR Road,1550,44,Medium,Yes,2,Rainy,Moderate Delay
+2025-01-27 01:00:00,Anna Nagar,Mount Road,336,61,High,Yes,1,Clear,Moderate Delay
+2025-01-27 02:00:00,Adyar,ECR,1376,43,Medium,Yes,2,Clear,Smooth
+2025-01-27 03:00:00,Tambaram,Mount Road,1066,50,Medium,Yes,3,Rainy,Smooth
+2025-01-27 04:00:00,OMR,GST Road,360,60,Medium,Yes,0,Clear,Smooth
+2025-01-27 05:00:00,OMR,Mount Road,257,56,Medium,Yes,2,Clear,Moderate Delay
+2025-01-27 06:00:00,T. Nagar,Mount Road,667,27,Medium,No,3,Rainy,Smooth
+2025-01-27 07:00:00,Guindy,Inner Ring Road,495,67,Low,Yes,0,Rainy,Smooth
+2025-01-27 08:00:00,Adyar,OMR Road,719,20,High,Yes,2,Cloudy,Heavy Delay
+2025-01-27 09:00:00,T. Nagar,ECR,682,66,High,Yes,1,Clear,Smooth
+2025-01-27 10:00:00,Anna Nagar,Mount Road,104,32,High,No,1,Clear,Smooth
+2025-01-27 11:00:00,Anna Nagar,ECR,961,57,Low,No,1,Rainy,Smooth
+2025-01-27 12:00:00,T. Nagar,Mount Road,1085,31,High,No,3,Clear,Moderate Delay
+2025-01-27 13:00:00,OMR,GST Road,706,26,High,No,1,Clear,Moderate Delay
+2025-01-27 14:00:00,Anna Nagar,Mount Road,1473,14,Medium,No,4,Rainy,Smooth
+2025-01-27 15:00:00,Porur,Inner Ring Road,1981,53,Medium,No,0,Clear,Moderate Delay
+2025-01-27 16:00:00,Tambaram,OMR Road,1721,20,Medium,No,3,Clear,Heavy Delay
+2025-01-27 17:00:00,Tambaram,GST Road,1029,39,High,Yes,1,Clear,Heavy Delay
+2025-01-27 18:00:00,Porur,Mount Road,564,24,Medium,Yes,0,Clear,Heavy Delay
+2025-01-27 19:00:00,T. Nagar,ECR,1729,36,Low,Yes,2,Clear,Heavy Delay
+2025-01-27 20:00:00,Porur,GST Road,1615,44,Medium,No,1,Clear,Moderate Delay
+2025-01-27 21:00:00,Adyar,GST Road,286,42,High,No,0,Rainy,Smooth
+2025-01-27 22:00:00,Adyar,Mount Road,1352,29,High,No,4,Cloudy,Smooth
+2025-01-27 23:00:00,T. Nagar,GST Road,397,25,High,Yes,2,Clear,Smooth
+2025-01-28 00:00:00,Porur,ECR,676,43,Medium,No,4,Clear,Moderate Delay
+2025-01-28 01:00:00,Adyar,GST Road,1177,11,Low,Yes,0,Clear,Heavy Delay
+2025-01-28 02:00:00,OMR,ECR,679,44,Low,Yes,4,Clear,Moderate Delay
+2025-01-28 03:00:00,Porur,Mount Road,1590,49,Low,No,0,Rainy,Smooth
+2025-01-28 04:00:00,OMR,OMR Road,1945,65,Low,No,0,Rainy,Moderate Delay
+2025-01-28 05:00:00,Adyar,GST Road,1321,37,Medium,Yes,4,Rainy,Heavy Delay
+2025-01-28 06:00:00,Tambaram,OMR Road,413,56,Low,No,0,Clear,Moderate Delay
+2025-01-28 07:00:00,Adyar,ECR,370,48,Medium,Yes,1,Clear,Heavy Delay
+2025-01-28 08:00:00,OMR,GST Road,1706,15,High,No,0,Clear,Heavy Delay
+2025-01-28 09:00:00,Velachery,Inner Ring Road,335,18,Medium,Yes,3,Clear,Heavy Delay
+2025-01-28 10:00:00,Guindy,OMR Road,198,29,High,Yes,0,Rainy,Heavy Delay
+2025-01-28 11:00:00,Anna Nagar,GST Road,1157,69,Medium,Yes,3,Cloudy,Moderate Delay
+2025-01-28 12:00:00,Porur,OMR Road,455,10,Low,Yes,0,Clear,Smooth
+2025-01-28 13:00:00,Velachery,GST Road,1027,17,Medium,Yes,0,Rainy,Smooth
+2025-01-28 14:00:00,Adyar,Mount Road,505,64,Low,No,4,Clear,Moderate Delay
+2025-01-28 15:00:00,Tambaram,OMR Road,1816,32,Medium,No,1,Clear,Smooth
+2025-01-28 16:00:00,T. Nagar,Inner Ring Road,849,12,Medium,No,1,Clear,Heavy Delay
+2025-01-28 17:00:00,Adyar,Inner Ring Road,1234,13,Low,Yes,2,Clear,Smooth
+2025-01-28 18:00:00,Tambaram,ECR,1062,67,Low,No,4,Clear,Heavy Delay
+2025-01-28 19:00:00,Guindy,GST Road,833,34,Medium,Yes,4,Rainy,Smooth
+2025-01-28 20:00:00,Adyar,OMR Road,509,56,High,Yes,1,Cloudy,Smooth
+2025-01-28 21:00:00,OMR,ECR,1623,47,High,No,4,Clear,Heavy Delay
+2025-01-28 22:00:00,T. Nagar,OMR Road,1573,24,High,No,1,Clear,Smooth
+2025-01-28 23:00:00,Tambaram,GST Road,787,30,Low,Yes,4,Cloudy,Smooth
+2025-01-29 00:00:00,Tambaram,Inner Ring Road,558,44,High,Yes,0,Rainy,Smooth
+2025-01-29 01:00:00,Tambaram,Mount Road,1727,66,High,No,1,Rainy,Moderate Delay
+2025-01-29 02:00:00,Guindy,Inner Ring Road,1877,62,Medium,Yes,1,Clear,Smooth
+2025-01-29 03:00:00,Adyar,ECR,530,62,High,No,3,Cloudy,Moderate Delay
+2025-01-29 04:00:00,Guindy,Mount Road,1736,55,Medium,No,4,Clear,Moderate Delay
+2025-01-29 05:00:00,Porur,ECR,163,61,High,Yes,4,Rainy,Moderate Delay
+2025-01-29 06:00:00,Anna Nagar,GST Road,798,23,High,Yes,1,Clear,Moderate Delay
+2025-01-29 07:00:00,Anna Nagar,Mount Road,1651,45,Low,Yes,0,Rainy,Moderate Delay
+2025-01-29 08:00:00,Porur,ECR,410,21,Medium,No,0,Clear,Smooth
+2025-01-29 09:00:00,Adyar,GST Road,390,26,High,No,0,Clear,Heavy Delay
+2025-01-29 10:00:00,OMR,Inner Ring Road,819,48,Low,No,4,Clear,Smooth
+2025-01-29 11:00:00,Guindy,GST Road,810,18,Medium,No,3,Clear,Moderate Delay
+2025-01-29 12:00:00,T. Nagar,OMR Road,1018,44,High,No,1,Rainy,Moderate Delay
+2025-01-29 13:00:00,Tambaram,GST Road,498,69,Medium,No,2,Cloudy,Heavy Delay
+2025-01-29 14:00:00,Tambaram,GST Road,1916,22,Low,No,3,Cloudy,Moderate Delay
+2025-01-29 15:00:00,Adyar,OMR Road,884,24,Medium,No,2,Clear,Smooth
+2025-01-29 16:00:00,OMR,ECR,1253,27,Low,No,3,Rainy,Moderate Delay
+2025-01-29 17:00:00,Anna Nagar,ECR,1775,60,Medium,No,0,Rainy,Moderate Delay
+2025-01-29 18:00:00,Anna Nagar,GST Road,1480,42,Low,No,4,Clear,Smooth
+2025-01-29 19:00:00,Tambaram,OMR Road,1739,15,Medium,Yes,2,Clear,Moderate Delay
+2025-01-29 20:00:00,Adyar,OMR Road,1269,68,Medium,No,3,Rainy,Moderate Delay
+2025-01-29 21:00:00,Guindy,Inner Ring Road,1539,36,High,Yes,4,Cloudy,Heavy Delay
+2025-01-29 22:00:00,Anna Nagar,ECR,360,32,Medium,Yes,2,Rainy,Moderate Delay
+2025-01-29 23:00:00,Guindy,Mount Road,311,68,Medium,Yes,1,Clear,Smooth
+2025-01-30 00:00:00,OMR,ECR,1492,36,Medium,No,3,Clear,Smooth
+2025-01-30 01:00:00,Anna Nagar,ECR,455,43,Low,No,1,Clear,Heavy Delay
+2025-01-30 02:00:00,Anna Nagar,Inner Ring Road,192,65,Medium,Yes,0,Rainy,Heavy Delay
+2025-01-30 03:00:00,Velachery,Mount Road,391,55,Low,No,1,Rainy,Smooth
+2025-01-30 04:00:00,Anna Nagar,Inner Ring Road,1389,47,High,No,1,Clear,Smooth
+2025-01-30 05:00:00,Porur,Mount Road,1174,23,Low,Yes,3,Cloudy,Moderate Delay
+2025-01-30 06:00:00,T. Nagar,GST Road,293,45,Medium,No,0,Clear,Smooth
+2025-01-30 07:00:00,Porur,Mount Road,539,62,Medium,No,1,Cloudy,Smooth
+2025-01-30 08:00:00,Adyar,Inner Ring Road,61,17,Medium,No,4,Clear,Smooth
+2025-01-30 09:00:00,Adyar,ECR,1312,44,Low,No,2,Clear,Smooth
+2025-01-30 10:00:00,Guindy,Mount Road,610,28,Medium,No,1,Clear,Moderate Delay
+2025-01-30 11:00:00,Porur,Mount Road,91,39,Medium,Yes,0,Clear,Moderate Delay
+2025-01-30 12:00:00,Porur,OMR Road,727,23,High,Yes,1,Clear,Smooth
+2025-01-30 13:00:00,Porur,ECR,643,68,Medium,Yes,2,Clear,Smooth
+2025-01-30 14:00:00,OMR,GST Road,1502,29,Medium,No,0,Clear,Smooth
+2025-01-30 15:00:00,Anna Nagar,Inner Ring Road,1876,58,Medium,Yes,3,Rainy,Moderate Delay
+2025-01-30 16:00:00,T. Nagar,GST Road,1231,34,Medium,Yes,0,Clear,Smooth
+2025-01-30 17:00:00,Guindy,ECR,1289,49,Medium,No,3,Clear,Moderate Delay
+2025-01-30 18:00:00,Porur,Mount Road,1743,33,Medium,No,0,Clear,Moderate Delay
+2025-01-30 19:00:00,Porur,Mount Road,1535,23,Low,No,2,Rainy,Smooth
+2025-01-30 20:00:00,Velachery,ECR,183,35,Low,Yes,2,Clear,Smooth
+2025-01-30 21:00:00,Guindy,Mount Road,1140,47,Low,Yes,0,Cloudy,Smooth
+2025-01-30 22:00:00,Porur,Mount Road,1921,32,Low,Yes,1,Rainy,Moderate Delay
+2025-01-30 23:00:00,Guindy,Mount Road,1080,31,Medium,Yes,2,Clear,Heavy Delay
+2025-01-31 00:00:00,Anna Nagar,Inner Ring Road,997,57,Medium,Yes,3,Clear,Smooth
+2025-01-31 01:00:00,Velachery,Inner Ring Road,1599,66,Low,No,3,Clear,Heavy Delay
+2025-01-31 02:00:00,Guindy,OMR Road,122,28,High,No,4,Clear,Smooth
+2025-01-31 03:00:00,T. Nagar,GST Road,448,55,Low,Yes,3,Cloudy,Heavy Delay
+2025-01-31 04:00:00,T. Nagar,ECR,1478,60,High,No,4,Cloudy,Moderate Delay
+2025-01-31 05:00:00,Adyar,ECR,1748,12,Medium,No,0,Clear,Moderate Delay
+2025-01-31 06:00:00,Velachery,ECR,627,51,Medium,Yes,0,Clear,Moderate Delay
+2025-01-31 07:00:00,Velachery,OMR Road,908,28,Low,No,0,Rainy,Moderate Delay
+2025-01-31 08:00:00,Adyar,Inner Ring Road,179,18,Medium,Yes,1,Rainy,Heavy Delay
+2025-01-31 09:00:00,Guindy,OMR Road,980,37,Medium,Yes,1,Clear,Heavy Delay
+2025-01-31 10:00:00,Velachery,ECR,1539,29,High,No,4,Clear,Moderate Delay
+2025-01-31 11:00:00,T. Nagar,GST Road,1279,54,Medium,Yes,3,Clear,Smooth
+2025-01-31 12:00:00,T. Nagar,Mount Road,1861,16,High,No,3,Rainy,Smooth
+2025-01-31 13:00:00,Porur,Inner Ring Road,1841,23,Low,Yes,0,Clear,Heavy Delay
+2025-01-31 14:00:00,Anna Nagar,Inner Ring Road,315,18,High,No,2,Clear,Moderate Delay
+2025-01-31 15:00:00,Velachery,OMR Road,1610,68,Medium,No,1,Cloudy,Moderate Delay
+2025-01-31 16:00:00,Guindy,Inner Ring Road,842,69,High,Yes,1,Rainy,Moderate Delay
+2025-01-31 17:00:00,Adyar,ECR,302,64,Low,Yes,0,Cloudy,Heavy Delay
+2025-01-31 18:00:00,Adyar,ECR,871,66,Medium,No,1,Clear,Moderate Delay
+2025-01-31 19:00:00,Guindy,OMR Road,1362,69,Medium,No,0,Clear,Heavy Delay
+2025-01-31 20:00:00,OMR,ECR,213,28,High,No,4,Cloudy,Heavy Delay
+2025-01-31 21:00:00,Tambaram,GST Road,144,56,Medium,No,3,Clear,Smooth
+2025-01-31 22:00:00,Anna Nagar,OMR Road,1855,61,High,No,2,Clear,Smooth
+2025-01-31 23:00:00,Adyar,GST Road,882,23,Low,No,3,Clear,Heavy Delay
+2025-02-01 00:00:00,Velachery,Mount Road,1183,65,High,No,3,Clear,Smooth
+2025-02-01 01:00:00,Anna Nagar,GST Road,385,47,High,No,4,Clear,Heavy Delay
+2025-02-01 02:00:00,Velachery,Mount Road,871,62,High,No,1,Cloudy,Smooth
+2025-02-01 03:00:00,OMR,Mount Road,287,45,Medium,No,2,Cloudy,Smooth
+2025-02-01 04:00:00,T. Nagar,GST Road,430,49,Medium,Yes,1,Cloudy,Heavy Delay
+2025-02-01 05:00:00,Anna Nagar,OMR Road,1509,26,High,No,3,Clear,Moderate Delay
+2025-02-01 06:00:00,Porur,ECR,948,39,Low,No,0,Clear,Smooth
+2025-02-01 07:00:00,Adyar,ECR,532,18,Medium,Yes,3,Clear,Heavy Delay
+2025-02-01 08:00:00,Anna Nagar,Mount Road,951,42,Medium,Yes,1,Cloudy,Moderate Delay
+2025-02-01 09:00:00,Anna Nagar,Mount Road,1098,65,High,Yes,3,Clear,Moderate Delay
+2025-02-01 10:00:00,Anna Nagar,OMR Road,1726,61,Low,No,0,Rainy,Smooth
+2025-02-01 11:00:00,Tambaram,Inner Ring Road,1190,34,Medium,No,4,Rainy,Heavy Delay
+2025-02-01 12:00:00,Anna Nagar,GST Road,531,23,High,Yes,1,Clear,Heavy Delay
+2025-02-01 13:00:00,Velachery,Mount Road,1465,20,Low,No,3,Clear,Smooth
+2025-02-01 14:00:00,T. Nagar,ECR,966,62,High,No,1,Cloudy,Heavy Delay
+2025-02-01 15:00:00,OMR,OMR Road,1043,44,Low,Yes,4,Cloudy,Heavy Delay
+2025-02-01 16:00:00,Guindy,GST Road,1013,50,Medium,No,3,Clear,Moderate Delay
+2025-02-01 17:00:00,Anna Nagar,OMR Road,586,68,Low,No,3,Clear,Moderate Delay
+2025-02-01 18:00:00,Adyar,GST Road,1152,23,Low,No,1,Cloudy,Smooth
+2025-02-01 19:00:00,Anna Nagar,GST Road,1653,39,High,No,1,Clear,Smooth
+2025-02-01 20:00:00,Adyar,Mount Road,1246,50,Medium,No,0,Clear,Moderate Delay
+2025-02-01 21:00:00,Velachery,OMR Road,1085,13,Medium,No,4,Clear,Heavy Delay
+2025-02-01 22:00:00,Adyar,OMR Road,1873,68,Low,Yes,0,Clear,Moderate Delay
+2025-02-01 23:00:00,Porur,ECR,177,13,Medium,No,3,Clear,Moderate Delay
+2025-02-02 00:00:00,Guindy,ECR,1681,37,Medium,No,1,Clear,Smooth
+2025-02-02 01:00:00,T. Nagar,Mount Road,141,17,Medium,No,3,Clear,Smooth
+2025-02-02 02:00:00,Adyar,Mount Road,1726,11,Medium,Yes,3,Clear,Moderate Delay
+2025-02-02 03:00:00,Adyar,Inner Ring Road,592,50,High,No,2,Cloudy,Smooth
+2025-02-02 04:00:00,T. Nagar,ECR,895,55,Medium,Yes,2,Rainy,Moderate Delay
+2025-02-02 05:00:00,Guindy,GST Road,1605,31,Medium,No,3,Rainy,Smooth
+2025-02-02 06:00:00,Anna Nagar,OMR Road,1731,50,Low,Yes,1,Rainy,Heavy Delay
+2025-02-02 07:00:00,Adyar,Mount Road,1038,65,High,Yes,3,Clear,Smooth
+2025-02-02 08:00:00,T. Nagar,OMR Road,1901,64,Medium,No,2,Clear,Moderate Delay
+2025-02-02 09:00:00,Porur,OMR Road,496,25,Medium,Yes,1,Cloudy,Moderate Delay
+2025-02-02 10:00:00,Porur,Inner Ring Road,439,38,Low,No,3,Clear,Smooth
+2025-02-02 11:00:00,Velachery,ECR,721,58,High,No,4,Clear,Smooth
+2025-02-02 12:00:00,T. Nagar,Mount Road,1934,57,Low,No,4,Rainy,Smooth
+2025-02-02 13:00:00,Velachery,OMR Road,92,39,High,Yes,3,Clear,Heavy Delay
+2025-02-02 14:00:00,Porur,Mount Road,303,21,Medium,Yes,1,Clear,Smooth
+2025-02-02 15:00:00,Guindy,GST Road,1203,44,Low,No,3,Cloudy,Moderate Delay
+2025-02-02 16:00:00,Anna Nagar,Inner Ring Road,1133,20,High,No,3,Cloudy,Heavy Delay
+2025-02-02 17:00:00,T. Nagar,GST Road,712,55,Medium,No,2,Clear,Heavy Delay
+2025-02-02 18:00:00,OMR,Mount Road,516,59,High,No,4,Cloudy,Smooth
+2025-02-02 19:00:00,Porur,Mount Road,336,30,High,Yes,2,Rainy,Heavy Delay
+2025-02-02 20:00:00,Porur,ECR,1060,30,High,No,2,Rainy,Smooth
+2025-02-02 21:00:00,OMR,OMR Road,1590,14,Low,No,3,Clear,Moderate Delay
+2025-02-02 22:00:00,Tambaram,OMR Road,1540,57,High,Yes,2,Clear,Heavy Delay
+2025-02-02 23:00:00,Porur,GST Road,827,29,Medium,Yes,4,Rainy,Moderate Delay
+2025-02-03 00:00:00,Adyar,Inner Ring Road,394,46,High,No,2,Cloudy,Moderate Delay
+2025-02-03 01:00:00,Guindy,OMR Road,691,12,Medium,Yes,4,Rainy,Smooth
+2025-02-03 02:00:00,T. Nagar,ECR,431,53,High,Yes,2,Clear,Smooth
+2025-02-03 03:00:00,OMR,GST Road,1852,42,Medium,No,4,Clear,Moderate Delay
+2025-02-03 04:00:00,Adyar,GST Road,739,62,Medium,Yes,2,Rainy,Smooth
+2025-02-03 05:00:00,OMR,ECR,1326,18,Low,Yes,2,Clear,Heavy Delay
+2025-02-03 06:00:00,T. Nagar,Inner Ring Road,1129,18,High,No,1,Clear,Heavy Delay
+2025-02-03 07:00:00,Velachery,ECR,1536,13,Medium,No,4,Clear,Heavy Delay
+2025-02-03 08:00:00,T. Nagar,Inner Ring Road,506,44,Medium,No,4,Clear,Moderate Delay
+2025-02-03 09:00:00,Tambaram,ECR,1032,26,High,No,4,Rainy,Moderate Delay
+2025-02-03 10:00:00,T. Nagar,ECR,132,43,Medium,No,0,Rainy,Heavy Delay
+2025-02-03 11:00:00,T. Nagar,Mount Road,1978,33,Low,No,2,Clear,Heavy Delay
+2025-02-03 12:00:00,Tambaram,GST Road,1172,41,Medium,Yes,4,Clear,Moderate Delay
+2025-02-03 13:00:00,Guindy,ECR,198,10,Medium,No,0,Rainy,Smooth
+2025-02-03 14:00:00,Porur,ECR,1402,17,Medium,No,1,Clear,Smooth
+2025-02-03 15:00:00,T. Nagar,OMR Road,1229,54,Low,Yes,4,Clear,Moderate Delay
+2025-02-03 16:00:00,Tambaram,GST Road,239,32,Low,Yes,4,Cloudy,Moderate Delay
+2025-02-03 17:00:00,Adyar,OMR Road,1567,56,Low,No,0,Clear,Heavy Delay
+2025-02-03 18:00:00,Velachery,GST Road,932,49,High,Yes,2,Cloudy,Smooth
+2025-02-03 19:00:00,Velachery,OMR Road,312,21,Low,Yes,1,Clear,Smooth
+2025-02-03 20:00:00,T. Nagar,ECR,1153,63,Medium,No,4,Clear,Smooth
+2025-02-03 21:00:00,Guindy,ECR,449,21,High,No,2,Clear,Smooth
+2025-02-03 22:00:00,Guindy,Mount Road,813,55,Low,No,1,Cloudy,Smooth
+2025-02-03 23:00:00,Adyar,OMR Road,658,56,Medium,Yes,3,Clear,Moderate Delay
+2025-02-04 00:00:00,T. Nagar,Inner Ring Road,1333,24,High,Yes,3,Clear,Moderate Delay
+2025-02-04 01:00:00,Velachery,Mount Road,1845,50,High,No,1,Cloudy,Moderate Delay
+2025-02-04 02:00:00,Guindy,OMR Road,1688,28,High,No,0,Clear,Smooth
+2025-02-04 03:00:00,T. Nagar,OMR Road,1625,35,High,Yes,1,Clear,Smooth
+2025-02-04 04:00:00,OMR,Mount Road,834,61,High,No,1,Clear,Moderate Delay
+2025-02-04 05:00:00,Guindy,ECR,150,38,Medium,Yes,0,Rainy,Heavy Delay
+2025-02-04 06:00:00,Tambaram,OMR Road,1432,31,High,No,0,Clear,Smooth
+2025-02-04 07:00:00,OMR,ECR,1453,49,Low,No,2,Clear,Heavy Delay
+2025-02-04 08:00:00,Porur,Mount Road,869,30,High,No,2,Clear,Smooth
+2025-02-04 09:00:00,Guindy,ECR,1294,60,Medium,No,0,Clear,Heavy Delay
+2025-02-04 10:00:00,Velachery,GST Road,869,47,Medium,Yes,3,Cloudy,Heavy Delay
+2025-02-04 11:00:00,Anna Nagar,Inner Ring Road,469,29,Low,No,3,Cloudy,Smooth
+2025-02-04 12:00:00,OMR,OMR Road,173,66,High,No,1,Rainy,Moderate Delay
+2025-02-04 13:00:00,Porur,Inner Ring Road,471,38,Low,Yes,4,Rainy,Smooth
+2025-02-04 14:00:00,Adyar,ECR,1304,60,High,No,1,Rainy,Heavy Delay
+2025-02-04 15:00:00,Adyar,OMR Road,1763,13,High,Yes,1,Clear,Moderate Delay
+2025-02-04 16:00:00,Velachery,ECR,1136,64,Low,No,4,Rainy,Moderate Delay
+2025-02-04 17:00:00,Guindy,GST Road,1558,16,High,No,0,Clear,Moderate Delay
+2025-02-04 18:00:00,T. Nagar,Mount Road,1701,37,High,No,3,Clear,Heavy Delay
+2025-02-04 19:00:00,Guindy,OMR Road,1776,37,Medium,Yes,1,Rainy,Smooth
+2025-02-04 20:00:00,Velachery,GST Road,1647,13,Medium,No,4,Clear,Moderate Delay
+2025-02-04 21:00:00,Adyar,GST Road,817,31,Low,No,2,Cloudy,Smooth
+2025-02-04 22:00:00,Guindy,OMR Road,532,21,Low,No,1,Clear,Smooth
+2025-02-04 23:00:00,Adyar,ECR,568,54,Medium,Yes,3,Rainy,Moderate Delay
+2025-02-05 00:00:00,OMR,GST Road,204,12,High,No,0,Clear,Smooth
+2025-02-05 01:00:00,Porur,Inner Ring Road,141,31,Low,No,1,Rainy,Smooth
+2025-02-05 02:00:00,T. Nagar,GST Road,1031,53,High,Yes,1,Rainy,Heavy Delay
+2025-02-05 03:00:00,OMR,ECR,1599,11,Medium,Yes,4,Clear,Smooth
+2025-02-05 04:00:00,Adyar,ECR,504,33,Medium,No,2,Clear,Moderate Delay
+2025-02-05 05:00:00,Adyar,Inner Ring Road,1814,43,High,No,2,Clear,Smooth
+2025-02-05 06:00:00,Anna Nagar,GST Road,647,36,High,Yes,0,Clear,Smooth
+2025-02-05 07:00:00,Anna Nagar,ECR,1718,64,Medium,Yes,3,Rainy,Smooth
+2025-02-05 08:00:00,OMR,OMR Road,559,50,Medium,Yes,0,Cloudy,Moderate Delay
+2025-02-05 09:00:00,Tambaram,Mount Road,1256,10,Medium,No,1,Clear,Moderate Delay
+2025-02-05 10:00:00,OMR,Mount Road,435,17,Low,No,1,Rainy,Smooth
+2025-02-05 11:00:00,Anna Nagar,Mount Road,1647,32,Low,No,2,Cloudy,Smooth
+2025-02-05 12:00:00,Adyar,GST Road,1804,47,Medium,No,3,Clear,Heavy Delay
+2025-02-05 13:00:00,Velachery,Inner Ring Road,454,15,Medium,No,4,Rainy,Smooth
+2025-02-05 14:00:00,OMR,ECR,295,31,High,Yes,3,Rainy,Heavy Delay
+2025-02-05 15:00:00,Adyar,OMR Road,791,34,Medium,Yes,1,Clear,Smooth
+2025-02-05 16:00:00,Velachery,OMR Road,1664,27,Medium,Yes,4,Clear,Moderate Delay
+2025-02-05 17:00:00,Velachery,GST Road,710,26,Medium,No,3,Clear,Smooth
+2025-02-05 18:00:00,Anna Nagar,Mount Road,699,21,High,No,3,Cloudy,Heavy Delay
+2025-02-05 19:00:00,OMR,GST Road,1544,15,High,Yes,4,Cloudy,Moderate Delay
+2025-02-05 20:00:00,Guindy,Inner Ring Road,1899,35,Medium,Yes,1,Rainy,Moderate Delay
+2025-02-05 21:00:00,T. Nagar,Inner Ring Road,1961,36,High,No,3,Clear,Smooth
+2025-02-05 22:00:00,Anna Nagar,ECR,1496,17,Low,No,4,Clear,Moderate Delay
+2025-02-05 23:00:00,Anna Nagar,ECR,950,28,Medium,Yes,1,Clear,Moderate Delay
+2025-02-06 00:00:00,Guindy,Inner Ring Road,114,69,Medium,No,4,Clear,Smooth
+2025-02-06 01:00:00,T. Nagar,Inner Ring Road,1086,51,Medium,No,4,Rainy,Smooth
+2025-02-06 02:00:00,Adyar,Inner Ring Road,262,10,High,Yes,3,Cloudy,Heavy Delay
+2025-02-06 03:00:00,Tambaram,GST Road,291,66,High,No,1,Cloudy,Smooth
+2025-02-06 04:00:00,OMR,Inner Ring Road,542,38,Low,Yes,3,Rainy,Moderate Delay
+2025-02-06 05:00:00,Tambaram,OMR Road,1286,54,Medium,No,0,Clear,Moderate Delay
+2025-02-06 06:00:00,Adyar,Mount Road,1766,58,Medium,No,0,Clear,Heavy Delay
+2025-02-06 07:00:00,Porur,Inner Ring Road,387,44,Low,No,1,Clear,Heavy Delay
+2025-02-06 08:00:00,Anna Nagar,Mount Road,222,49,Low,No,4,Rainy,Heavy Delay
+2025-02-06 09:00:00,T. Nagar,GST Road,721,23,Medium,Yes,3,Rainy,Smooth
+2025-02-06 10:00:00,Anna Nagar,Mount Road,213,44,Low,No,3,Clear,Heavy Delay
+2025-02-06 11:00:00,Velachery,GST Road,514,57,Low,No,1,Clear,Smooth
+2025-02-06 12:00:00,Anna Nagar,OMR Road,1044,54,Low,No,1,Clear,Moderate Delay
+2025-02-06 13:00:00,Anna Nagar,GST Road,546,29,Medium,No,0,Clear,Moderate Delay
+2025-02-06 14:00:00,Adyar,GST Road,749,65,High,No,2,Clear,Smooth
+2025-02-06 15:00:00,Adyar,ECR,444,58,Medium,No,1,Clear,Heavy Delay
+2025-02-06 16:00:00,Adyar,Inner Ring Road,752,22,High,Yes,2,Clear,Smooth
+2025-02-06 17:00:00,Tambaram,Inner Ring Road,1990,47,Medium,No,1,Cloudy,Moderate Delay
+2025-02-06 18:00:00,Velachery,OMR Road,357,58,High,No,4,Clear,Heavy Delay
+2025-02-06 19:00:00,Porur,OMR Road,1841,55,High,No,4,Clear,Heavy Delay
+2025-02-06 20:00:00,Porur,Inner Ring Road,232,58,Medium,No,0,Clear,Smooth
+2025-02-06 21:00:00,Adyar,ECR,678,17,Medium,Yes,0,Clear,Moderate Delay
+2025-02-06 22:00:00,T. Nagar,Inner Ring Road,1867,52,High,Yes,2,Clear,Heavy Delay
+2025-02-06 23:00:00,Tambaram,ECR,559,29,Low,No,1,Clear,Smooth
+2025-02-07 00:00:00,Guindy,OMR Road,1781,69,Medium,No,3,Clear,Moderate Delay
+2025-02-07 01:00:00,T. Nagar,Mount Road,595,42,Medium,Yes,0,Clear,Smooth
+2025-02-07 02:00:00,OMR,OMR Road,1637,35,Medium,No,3,Rainy,Moderate Delay
+2025-02-07 03:00:00,OMR,OMR Road,673,48,Low,Yes,3,Clear,Heavy Delay
+2025-02-07 04:00:00,T. Nagar,GST Road,1837,30,High,No,1,Rainy,Moderate Delay
+2025-02-07 05:00:00,Adyar,GST Road,643,62,Medium,No,2,Clear,Moderate Delay
+2025-02-07 06:00:00,Guindy,GST Road,793,58,Medium,Yes,1,Clear,Moderate Delay
+2025-02-07 07:00:00,Guindy,GST Road,1300,51,High,Yes,0,Clear,Moderate Delay
+2025-02-07 08:00:00,Tambaram,ECR,1818,52,Medium,Yes,3,Clear,Smooth
+2025-02-07 09:00:00,Guindy,Inner Ring Road,1806,63,High,No,1,Cloudy,Smooth
+2025-02-07 10:00:00,OMR,Mount Road,1509,50,Medium,Yes,1,Rainy,Moderate Delay
+2025-02-07 11:00:00,Velachery,OMR Road,1998,18,Low,Yes,1,Cloudy,Moderate Delay
+2025-02-07 12:00:00,Adyar,ECR,1495,33,High,No,0,Cloudy,Moderate Delay
+2025-02-07 13:00:00,Guindy,Mount Road,603,46,Medium,No,2,Rainy,Smooth
+2025-02-07 14:00:00,Tambaram,ECR,70,58,High,No,1,Clear,Smooth
+2025-02-07 15:00:00,OMR,ECR,603,50,High,No,0,Clear,Smooth
+2025-02-07 16:00:00,Velachery,OMR Road,446,26,High,Yes,3,Cloudy,Heavy Delay
+2025-02-07 17:00:00,Anna Nagar,Inner Ring Road,674,33,Medium,No,4,Rainy,Moderate Delay
+2025-02-07 18:00:00,Anna Nagar,GST Road,154,30,High,No,0,Clear,Smooth
+2025-02-07 19:00:00,Velachery,Inner Ring Road,241,60,Medium,No,4,Rainy,Smooth
+2025-02-07 20:00:00,OMR,OMR Road,66,68,Medium,Yes,1,Clear,Heavy Delay
+2025-02-07 21:00:00,Tambaram,OMR Road,1193,48,High,No,1,Clear,Smooth
+2025-02-07 22:00:00,Velachery,OMR Road,442,64,Low,No,0,Clear,Heavy Delay
+2025-02-07 23:00:00,Adyar,Mount Road,474,50,High,No,4,Rainy,Smooth
+2025-02-08 00:00:00,Adyar,Inner Ring Road,178,48,High,Yes,1,Cloudy,Heavy Delay
+2025-02-08 01:00:00,Anna Nagar,Inner Ring Road,1203,22,High,Yes,3,Clear,Heavy Delay
+2025-02-08 02:00:00,Guindy,ECR,621,20,Medium,Yes,2,Clear,Moderate Delay
+2025-02-08 03:00:00,Tambaram,ECR,1633,55,High,Yes,2,Clear,Smooth
+2025-02-08 04:00:00,Anna Nagar,ECR,78,28,Medium,No,1,Rainy,Smooth
+2025-02-08 05:00:00,Guindy,OMR Road,1170,20,High,Yes,4,Clear,Moderate Delay
+2025-02-08 06:00:00,Guindy,Inner Ring Road,1083,22,Low,No,1,Clear,Moderate Delay
+2025-02-08 07:00:00,Porur,OMR Road,291,55,Low,Yes,4,Clear,Smooth
+2025-02-08 08:00:00,Adyar,Mount Road,1899,54,Low,Yes,3,Clear,Smooth
+2025-02-08 09:00:00,OMR,ECR,281,10,Medium,No,4,Clear,Moderate Delay
+2025-02-08 10:00:00,T. Nagar,OMR Road,838,49,Medium,Yes,1,Rainy,Moderate Delay
+2025-02-08 11:00:00,OMR,OMR Road,1357,53,High,No,3,Clear,Smooth
+2025-02-08 12:00:00,T. Nagar,Mount Road,764,28,Medium,No,0,Rainy,Smooth
+2025-02-08 13:00:00,Velachery,GST Road,808,21,Medium,Yes,2,Clear,Heavy Delay
+2025-02-08 14:00:00,Adyar,Inner Ring Road,851,17,Low,Yes,1,Clear,Moderate Delay
+2025-02-08 15:00:00,Guindy,GST Road,825,17,Medium,Yes,1,Clear,Heavy Delay
+2025-02-08 16:00:00,Tambaram,ECR,775,62,Medium,Yes,1,Rainy,Moderate Delay
+2025-02-08 17:00:00,T. Nagar,OMR Road,249,54,Low,Yes,3,Cloudy,Smooth
+2025-02-08 18:00:00,OMR,Mount Road,994,21,Low,Yes,0,Cloudy,Smooth
+2025-02-08 19:00:00,Guindy,Mount Road,128,57,Low,Yes,4,Clear,Smooth
+2025-02-08 20:00:00,T. Nagar,Inner Ring Road,1986,42,Low,No,0,Clear,Heavy Delay
+2025-02-08 21:00:00,T. Nagar,GST Road,1005,54,Medium,No,3,Rainy,Moderate Delay
+2025-02-08 22:00:00,Porur,Inner Ring Road,1928,35,Low,No,1,Rainy,Smooth
+2025-02-08 23:00:00,T. Nagar,OMR Road,905,48,High,Yes,2,Clear,Heavy Delay
+2025-02-09 00:00:00,Tambaram,Inner Ring Road,1246,37,High,Yes,1,Rainy,Smooth
+2025-02-09 01:00:00,Adyar,Mount Road,516,67,Medium,No,4,Clear,Heavy Delay
+2025-02-09 02:00:00,Tambaram,Mount Road,630,14,High,No,2,Clear,Heavy Delay
+2025-02-09 03:00:00,Anna Nagar,ECR,1489,17,Medium,No,1,Clear,Smooth
+2025-02-09 04:00:00,Guindy,ECR,989,34,Medium,Yes,2,Clear,Smooth
+2025-02-09 05:00:00,Adyar,OMR Road,498,36,High,No,0,Clear,Moderate Delay
+2025-02-09 06:00:00,Porur,GST Road,136,55,Low,No,3,Clear,Moderate Delay
+2025-02-09 07:00:00,Adyar,Inner Ring Road,150,32,High,Yes,1,Clear,Moderate Delay
+2025-02-09 08:00:00,Adyar,OMR Road,1081,39,Low,No,4,Clear,Heavy Delay
+2025-02-09 09:00:00,OMR,ECR,894,54,Medium,No,0,Clear,Moderate Delay
+2025-02-09 10:00:00,Adyar,Inner Ring Road,1273,56,Low,Yes,1,Rainy,Smooth
+2025-02-09 11:00:00,Porur,ECR,1578,32,High,Yes,0,Clear,Smooth
+2025-02-09 12:00:00,Tambaram,Inner Ring Road,136,58,Medium,No,4,Clear,Moderate Delay
+2025-02-09 13:00:00,Adyar,GST Road,92,56,High,No,1,Clear,Smooth
+2025-02-09 14:00:00,Velachery,OMR Road,1458,29,Medium,Yes,4,Cloudy,Heavy Delay
+2025-02-09 15:00:00,Guindy,Inner Ring Road,1694,27,Medium,Yes,2,Clear,Smooth
+2025-02-09 16:00:00,Adyar,Mount Road,1508,27,Low,Yes,4,Clear,Smooth
+2025-02-09 17:00:00,Guindy,Mount Road,457,11,Medium,No,2,Clear,Smooth
+2025-02-09 18:00:00,Velachery,Inner Ring Road,1556,13,High,Yes,1,Rainy,Moderate Delay
+2025-02-09 19:00:00,Velachery,Inner Ring Road,713,39,Medium,No,2,Clear,Smooth
+2025-02-09 20:00:00,Guindy,Inner Ring Road,1090,42,High,Yes,1,Clear,Heavy Delay
+2025-02-09 21:00:00,T. Nagar,Mount Road,1718,45,High,Yes,1,Clear,Moderate Delay
+2025-02-09 22:00:00,Anna Nagar,Mount Road,197,27,Medium,No,3,Clear,Heavy Delay
+2025-02-09 23:00:00,OMR,Inner Ring Road,326,46,Medium,No,1,Rainy,Moderate Delay
+2025-02-10 00:00:00,T. Nagar,ECR,281,28,Low,No,2,Cloudy,Smooth
+2025-02-10 01:00:00,T. Nagar,ECR,1899,56,Low,No,3,Rainy,Heavy Delay
+2025-02-10 02:00:00,Tambaram,GST Road,415,37,Low,No,3,Rainy,Smooth
+2025-02-10 03:00:00,OMR,OMR Road,1301,49,Medium,Yes,1,Clear,Moderate Delay
+2025-02-10 04:00:00,OMR,ECR,1724,29,Medium,No,4,Clear,Smooth
+2025-02-10 05:00:00,T. Nagar,Mount Road,485,58,Medium,Yes,4,Rainy,Heavy Delay
+2025-02-10 06:00:00,Adyar,ECR,448,42,Medium,No,3,Clear,Heavy Delay
+2025-02-10 07:00:00,Tambaram,GST Road,1284,21,Medium,No,1,Cloudy,Moderate Delay
+2025-02-10 08:00:00,Tambaram,GST Road,1464,67,Medium,Yes,4,Clear,Moderate Delay
+2025-02-10 09:00:00,Velachery,OMR Road,548,60,High,No,1,Clear,Heavy Delay
+2025-02-10 10:00:00,Porur,ECR,589,24,Low,Yes,1,Rainy,Smooth
+2025-02-10 11:00:00,OMR,Mount Road,612,50,Low,Yes,3,Rainy,Heavy Delay
+2025-02-10 12:00:00,T. Nagar,Mount Road,1564,48,High,No,3,Rainy,Smooth
+2025-02-10 13:00:00,Velachery,Inner Ring Road,491,11,Medium,Yes,0,Clear,Heavy Delay
+2025-02-10 14:00:00,Guindy,Mount Road,1334,38,Medium,No,4,Rainy,Moderate Delay
+2025-02-10 15:00:00,Anna Nagar,OMR Road,822,50,Medium,Yes,4,Clear,Heavy Delay
+2025-02-10 16:00:00,Porur,OMR Road,399,19,Medium,Yes,4,Clear,Moderate Delay
+2025-02-10 17:00:00,Porur,Mount Road,1425,11,Low,Yes,2,Cloudy,Moderate Delay
+2025-02-10 18:00:00,Porur,Mount Road,569,60,Low,Yes,1,Rainy,Moderate Delay
+2025-02-10 19:00:00,Tambaram,Inner Ring Road,1393,20,Medium,No,3,Clear,Smooth
+2025-02-10 20:00:00,Guindy,Mount Road,187,22,Medium,No,4,Rainy,Moderate Delay
+2025-02-10 21:00:00,Porur,Inner Ring Road,1623,19,High,No,0,Clear,Moderate Delay
+2025-02-10 22:00:00,Guindy,Inner Ring Road,1696,23,High,No,4,Clear,Heavy Delay
+2025-02-10 23:00:00,Adyar,Mount Road,1041,27,Medium,Yes,1,Clear,Moderate Delay
+2025-02-11 00:00:00,Porur,GST Road,417,60,High,No,1,Cloudy,Smooth
+2025-02-11 01:00:00,Anna Nagar,GST Road,1293,63,Medium,Yes,3,Clear,Smooth
+2025-02-11 02:00:00,Guindy,Inner Ring Road,1410,18,Medium,Yes,2,Rainy,Moderate Delay
+2025-02-11 03:00:00,Guindy,Mount Road,1296,66,High,No,3,Clear,Smooth
+2025-02-11 04:00:00,Anna Nagar,GST Road,1721,48,Medium,Yes,4,Rainy,Smooth
+2025-02-11 05:00:00,Porur,Mount Road,1841,37,Medium,Yes,0,Clear,Heavy Delay
+2025-02-11 06:00:00,Anna Nagar,Mount Road,409,12,Low,No,3,Rainy,Moderate Delay
+2025-02-11 07:00:00,Guindy,Mount Road,970,29,Medium,No,2,Clear,Moderate Delay
+2025-02-11 08:00:00,Anna Nagar,ECR,378,15,High,No,3,Rainy,Smooth
+2025-02-11 09:00:00,Guindy,Mount Road,1011,36,High,Yes,1,Cloudy,Moderate Delay
+2025-02-11 10:00:00,Guindy,ECR,512,62,High,Yes,4,Rainy,Smooth
+2025-02-11 11:00:00,Adyar,Inner Ring Road,995,11,High,No,4,Clear,Moderate Delay
+2025-02-11 12:00:00,T. Nagar,GST Road,1012,38,Medium,Yes,4,Cloudy,Smooth
+2025-02-11 13:00:00,Guindy,GST Road,1634,47,Medium,No,4,Clear,Heavy Delay
+2025-02-11 14:00:00,Porur,GST Road,1877,12,Low,Yes,4,Rainy,Moderate Delay
+2025-02-11 15:00:00,Velachery,GST Road,1455,25,Medium,No,4,Cloudy,Moderate Delay
