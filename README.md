@@ -25,17 +25,20 @@ Number of Columns: 10
 Format: CSV (Comma Separated Values)
 
 🧾 Column Description
-Column Name	Description
-Location	Area or junction name
-Date	Date of observation
-Time	Time of traffic record
-Vehicle_Count	Total number of vehicles
-Traffic_Density	Low / Medium / High
-Average_Speed	Average speed of vehicles (km/h)
-Road_Type	Main road / Street / Highway
-Weather	Weather condition
-Accident_Reported	Yes / No
-Signal_Status	Green / Yellow / Red
+
+| Column Name       | Description                      |
+| ----------------- | -------------------------------- |
+| Location          | Area or junction name            |
+| Date              | Date of observation              |
+| Time              | Time of traffic record           |
+| Vehicle_Count     | Total number of vehicles         |
+| Traffic_Density   | Low / Medium / High              |
+| Average_Speed     | Average speed of vehicles (km/h) |
+| Road_Type         | Main road / Street / Highway     |
+| Weather           | Weather condition                |
+| Accident_Reported | Yes / No                         |
+| Signal_Status     | Green / Yellow / Red             |
+
 🎯 Purpose of the Dataset
 
 Identify high traffic zones
